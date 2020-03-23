@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XML_LOV>
+
+  <XML_LOV_DATA>
+    <LOV_RUID>LOV_SEX_MALE</LOV_RUID>
+    <LOV_ID>LOV_SEX_MALE</LOV_ID>
+    <LANG_ID>LOV_SEX_MALE</LANG_ID>
+    <ID></ID>
+    <EN></EN>
+  </XML_LOV_DATA>
+
+  <XML_LOV_DATA>
+    <LOV_RUID>LOV_SEX_FEMALE</LOV_RUID>
+    <LOV_ID>LOV_SEX_FEMALE</LOV_ID>
+    <LANG_ID>LOV_SEX_FEMALE</LANG_ID>
+    <ID></ID>
+    <EN></EN>
+  </XML_LOV_DATA>
+
+</XML_LOV>

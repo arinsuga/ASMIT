@@ -1,0 +1,3203 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XML_LANGUAGE>
+
+  <ACT_DESC1>
+    <ID>Deskripsi Akun 1</ID>
+    <EN>Account Description 1</EN>
+  </ACT_DESC1>
+
+  <ACT_DESC2>
+    <ID>Deskripsi Akun 2</ID>
+    <EN>Account Description 2</EN>
+  </ACT_DESC2>
+
+  <ACT_DESC3>
+    <ID>Deskripsi Akun 3</ID>
+    <EN>Account Description 3</EN>
+  </ACT_DESC3>
+
+  <ACT_DESC4>
+    <ID>Deskripsi Akun 4</ID>
+    <EN>Account Description 4</EN>
+  </ACT_DESC4>
+
+  <ACT_DESC5>
+    <ID>Deskripsi Akun 5</ID>
+    <EN>Account Description 5</EN>
+  </ACT_DESC5>
+
+  <ACT_ID>
+    <ID>Kode Akun</ID>
+    <EN>Account ID</EN>
+  </ACT_ID>
+
+  <ADD_FLD1>
+    <ID>Field Tambahan 1</ID>
+    <EN>Additional Field 1</EN>
+  </ADD_FLD1>
+
+  <ADD_FLD2>
+    <ID>Field Tambahan 2</ID>
+    <EN>Additional Field 1</EN>
+  </ADD_FLD2>
+
+  <ADD_FLD3>
+    <ID>Field Tambahan 3</ID>
+    <EN>Additional Field 1</EN>
+  </ADD_FLD3>
+
+  <ADD_FLD4>
+    <ID>Field Tambahan 4</ID>
+    <EN>Additional Field 1</EN>
+  </ADD_FLD4>
+
+  <ADD_FLD5>
+    <ID>Field Tambahan 5</ID>
+    <EN>Additional Field 1</EN>
+  </ADD_FLD5>
+
+  <ADD_RMK1>
+    <ID>Catatan Tambahan 1</ID>
+    <EN>Additional Remark 1</EN>
+  </ADD_RMK1>
+
+  <ADD_RMK2>
+    <ID>Catatan Tambahan 2</ID>
+    <EN>Additional Remark 2</EN>
+  </ADD_RMK2>
+
+  <ADD_RMK3>
+    <ID>Catatan Tambahan 3</ID>
+    <EN>Additional Remark 3</EN>
+  </ADD_RMK3>
+
+  <ADD_RMK4>
+    <ID>Catatan Tambahan 4</ID>
+    <EN>Additional Remark 4</EN>
+  </ADD_RMK4>
+
+  <ADD_RMK5>
+    <ID>Catatan Tambahan 5</ID>
+    <EN>Additional Remark 5</EN>
+  </ADD_RMK5>
+
+  <ADDR_TYP>
+    <ID>Jenis Alamat</ID>
+    <EN>Address Type</EN>
+  </ADDR_TYP>
+
+  <ADDR1>
+    <ID>Alamat 1</ID>
+    <EN>Address 1</EN>
+  </ADDR1>
+
+  <ADDR2>
+    <ID>Alamat 2</ID>
+    <EN>Address 2</EN>
+  </ADDR2>
+
+  <ADDR3>
+    <ID>Alamat 3</ID>
+    <EN>Address 3</EN>
+  </ADDR3>
+
+  <ADDR4>
+    <ID>Alamat 4</ID>
+    <EN>Address 4</EN>
+  </ADDR4>
+
+  <ADDR5>
+    <ID>Alamat 5</ID>
+    <EN>Address 5</EN>
+  </ADDR5>
+
+  <ADTRL_DT>
+    <ID>Tanggal Rekam jejak</ID>
+    <EN>Audit Trail Date</EN>
+  </ADTRL_DT>
+
+  <ADTRL_IP>
+    <ID>Audit IP</ID>
+    <EN>Audit IP</EN>
+  </ADTRL_IP>
+
+  <ADTRL_PRG>
+    <ID>Audit Program</ID>
+    <EN>Audit Program</EN>
+  </ADTRL_PRG>
+
+  <ADTRL_USR>
+    <ID>Audit Pengguna</ID>
+    <EN>Audit User</EN>
+  </ADTRL_USR>
+
+  <ADTRL_WKS>
+    <ID>Audit Komputer</ID>
+    <EN>Audit Workstation</EN>
+  </ADTRL_WKS>
+
+  <BP_STS>
+    <ID>Status</ID>
+    <EN>Status</EN>
+  </BP_STS>
+
+  <BRNCH_RUID>
+    <ID>Cabang</ID>
+    <EN>Branch</EN>
+  </BRNCH_RUID>
+
+  <CITY_RUID>
+    <ID>Kota</ID>
+    <EN>City</EN>
+  </CITY_RUID>
+
+  <CMPNY_RUID>
+    <ID>Perusahaan</ID>
+    <EN>Company</EN>
+  </CMPNY_RUID>
+
+  <CNTRY_RUID>
+    <ID>Negara</ID>
+    <EN>Country</EN>
+  </CNTRY_RUID>
+
+  <CP1_MAIL>
+    <ID>Email Kontak</ID>
+    <EN>Contact Person Email</EN>
+  </CP1_MAIL>
+
+  <CP1_NM>
+    <ID>Nama Kontak</ID>
+    <EN>Contact Person Name</EN>
+  </CP1_NM>
+
+  <CP1_PHN_HMO>
+    <ID>No. Telp. Rumah Kontak</ID>
+    <EN>Contact Person Home Phone</EN>
+  </CP1_PHN_HMO>
+
+  <CP1_PHN_MBL>
+    <ID>No. HP Kontak</ID>
+    <EN>Contact Person Mobile Phone</EN>
+  </CP1_PHN_MBL>
+
+  <CP1_WEBSITE>
+    <ID>Alamat Website Kontak</ID>
+    <EN>Contact Person Website</EN>
+  </CP1_WEBSITE>
+
+  <CP2_MAIL>
+    <ID>Email Kontak</ID>
+    <EN>Contact Person Email</EN>
+  </CP2_MAIL>
+
+  <CP2_NM>
+    <ID>Nama Kontak</ID>
+    <EN>Contact Person Name</EN>
+  </CP2_NM>
+
+  <CP2_PHN_HMO>
+    <ID>No. Telp. Rumah Kontak</ID>
+    <EN>Contact Person Home Phone</EN>
+  </CP2_PHN_HMO>
+
+  <CP2_PHN_MBL>
+    <ID>No. HP Kontak</ID>
+    <EN>Contact Person Mobile Phone</EN>
+  </CP2_PHN_MBL>
+
+  <CP2_WEBSITE>
+    <ID>Alamat Website Kontak</ID>
+    <EN>Contact Person Website</EN>
+  </CP2_WEBSITE>
+
+  <DEPT_RUID>
+    <ID>Departemen</ID>
+    <EN>Department</EN>
+  </DEPT_RUID>
+
+  <DOB>
+    <ID>Tanggal Lahir</ID>
+    <EN>Date of Birth</EN>
+  </DOB>
+
+  <DTA_STS>
+    <ID>Status Data</ID>
+    <EN>Data Status</EN>
+  </DTA_STS>
+
+  <FAX1>
+    <ID>Fax 1</ID>
+    <EN>Fax 1</EN>
+  </FAX1>
+
+  <FAX2>
+    <ID>Fax 2</ID>
+    <EN>Fax 2</EN>
+  </FAX2>
+
+  <FAX3>
+    <ID>Fax 3</ID>
+    <EN>Fax 3</EN>
+  </FAX3>
+
+  <FAX4>
+    <ID>Fax 4</ID>
+    <EN>Fax 4</EN>
+  </FAX4>
+
+  <FAX5>
+    <ID>Fax 5</ID>
+    <EN>Fax 5</EN>
+  </FAX5>
+
+  <HRSEQNO>
+    <ID>No. Urut Baris Data Riwayat</ID>
+    <EN>History Row Sequence Number</EN>
+  </HRSEQNO>
+
+  <JAMSOSTEK_NO>
+    <ID>No. Jamsostek</ID>
+    <EN>Jamsostek No.</EN>
+  </JAMSOSTEK_NO>
+
+  <JOB_TITLE_NM>
+    <ID>Jenis Pekerjaan</ID>
+    <EN>Job Title</EN>
+  </JOB_TITLE_NM>
+
+  <JOB_TITLE_RUID>
+    <ID>RUID Jenis Pekerjaan</ID>
+    <EN>Job Title RUID</EN>
+  </JOB_TITLE_RUID>
+
+  <JOIN_DT>
+    <ID>Tanggal Bergabung</ID>
+    <EN>Join Date</EN>
+  </JOIN_DT>
+
+  <MAIL1>
+    <ID>Email 1</ID>
+    <EN>Email 1</EN>
+  </MAIL1>
+
+  <MAIL2>
+    <ID>Email 2</ID>
+    <EN>Email 2</EN>
+  </MAIL2>
+
+  <MAIL3>
+    <ID>Email 3</ID>
+    <EN>Email 3</EN>
+  </MAIL3>
+
+  <MAIL4>
+    <ID>Email 4</ID>
+    <EN>Email 4</EN>
+  </MAIL4>
+
+  <MAIL5>
+    <ID>Email 5</ID>
+    <EN>Email 5</EN>
+  </MAIL5>
+
+  <MRTL_STS>
+    <ID>Status Perkawinan</ID>
+    <EN>Marital Status</EN>
+  </MRTL_STS>
+
+  <NOTES>
+    <ID>Catatan</ID>
+    <EN>Note</EN>
+  </NOTES>
+
+  <NPWP>
+    <ID>NPWP</ID>
+    <EN>Tax No.</EN>
+  </NPWP>
+
+  <PHN_HMO1>
+    <ID>Telp. Rumah 1</ID>
+    <EN>Home Phone 1</EN>
+  </PHN_HMO1>
+
+  <PHN_HMO2>
+    <ID>Telp. Rumah 2</ID>
+    <EN>Home Phone 2</EN>
+  </PHN_HMO2>
+
+  <PHN_HMO3>
+    <ID>Telp. Rumah 3</ID>
+    <EN>Home Phone 3</EN>
+  </PHN_HMO3>
+
+  <PHN_HMO4>
+    <ID>Telp. Rumah 4</ID>
+    <EN>Home Phone 4</EN>
+  </PHN_HMO4>
+
+  <PHN_HMO5>
+    <ID>Telp. Rumah 5</ID>
+    <EN>Home Phone 5</EN>
+  </PHN_HMO5>
+
+  <PHN_MBL1>
+    <ID>Handphone 1</ID>
+    <EN>Handphone 1</EN>
+  </PHN_MBL1>
+
+  <PHN_MBL2>
+    <ID>Handphone 2</ID>
+    <EN>Handphone 2</EN>
+  </PHN_MBL2>
+
+  <PHN_MBL3>
+    <ID>Handphone 3</ID>
+    <EN>Handphone 3</EN>
+  </PHN_MBL3>
+
+  <PHN_MBL4>
+    <ID>Handphone 4</ID>
+    <EN>Handphone 4</EN>
+  </PHN_MBL4>
+
+  <PHN_MBL5>
+    <ID>Handphone 5</ID>
+    <EN>Handphone 5</EN>
+  </PHN_MBL5>
+
+  <PHN_OFF1>
+    <ID>Telp. Kantor 1</ID>
+    <EN>Office Phone 1</EN>
+  </PHN_OFF1>
+
+  <PHN_OFF2>
+    <ID>Telp. Kantor 2</ID>
+    <EN>Office Phone 2</EN>
+  </PHN_OFF2>
+
+  <PHN_OFF3>
+    <ID>Telp. Kantor 3</ID>
+    <EN>Office Phone 3</EN>
+  </PHN_OFF3>
+
+  <PHN_OFF4>
+    <ID>Telp. Kantor 4</ID>
+    <EN>Office Phone 4</EN>
+  </PHN_OFF4>
+
+  <PHN_OFF5>
+    <ID>Telp. Kantor 5</ID>
+    <EN>Office Phone 5</EN>
+  </PHN_OFF5>
+
+  <POB>
+    <ID>Tempat Lahir</ID>
+    <EN>Place of Birth</EN>
+  </POB>
+
+  <RELIGION_RUID>
+    <ID>Agama</ID>
+    <EN>Religion</EN>
+  </RELIGION_RUID>
+
+  <RES_ID>
+    <ID>ID Resource</ID>
+    <EN>Resource ID</EN>
+  </RES_ID>
+
+  <RES_NM1>
+    <ID>Nama Depan</ID>
+    <EN>First Name</EN>
+  </RES_NM1>
+
+  <RES_NM2>
+    <ID>Nama Tengah</ID>
+    <EN>Middle Name</EN>
+  </RES_NM2>
+
+  <RES_NM3>
+    <ID>Nama Belakang</ID>
+    <EN>Last Name</EN>
+  </RES_NM3>
+
+  <RES_RUID>
+    <ID>Resource</ID>
+    <EN>Resource</EN>
+  </RES_RUID>
+
+  <RES_TYPE>
+    <ID>Jenis Resource</ID>
+    <EN>Resource Type</EN>
+  </RES_TYPE>
+
+  <RES_XID1>
+    <ID>ID Resource Tambahan 1</ID>
+    <EN>Extended ID 1</EN>
+  </RES_XID1>
+
+  <RES_XID2>
+    <ID>ID Resource Tambahan 2</ID>
+    <EN>Extended ID 2</EN>
+  </RES_XID2>
+
+  <RES_XID3>
+    <ID>ID Resource Tambahan 3</ID>
+    <EN>Extended ID 3</EN>
+  </RES_XID3>
+
+  <RES_XID4>
+    <ID>ID Resource Tambahan 4</ID>
+    <EN>Extended ID 4</EN>
+  </RES_XID4>
+
+  <RES_XID5>
+    <ID>ID Resource Tambahan 5</ID>
+    <EN>Extended ID 5</EN>
+  </RES_XID5>
+
+  <RES_XNM1>
+    <ID>Nama Tambahan 1</ID>
+    <EN>Extended Name 1</EN>
+  </RES_XNM1>
+
+  <RES_XNM2>
+    <ID>Nama Tambahan 2</ID>
+    <EN>Extended Name 2</EN>
+  </RES_XNM2>
+
+  <RES_XNM3>
+    <ID>Nama Tambahan 3</ID>
+    <EN>Extended Name 3</EN>
+  </RES_XNM3>
+
+  <RES_XNM4>
+    <ID>Nama Tambahan 4</ID>
+    <EN>Extended Name 4</EN>
+  </RES_XNM4>
+
+  <RES_XNM5>
+    <ID>Nama Tambahan 5</ID>
+    <EN>Extended Name 5</EN>
+  </RES_XNM5>
+
+  <RHUID>
+    <ID>RUID Riwayat</ID>
+    <EN>History Row ID</EN>
+  </RHUID>
+
+  <RMK>
+    <ID>Catatan</ID>
+    <EN>Note</EN>
+  </RMK>
+
+  <RSEQNO>
+    <ID>Nomor Urut Baris Data</ID>
+    <EN>Row Sequence No.</EN>
+  </RSEQNO>
+
+  <RUID>
+    <ID>RUID</ID>
+    <EN>Row Unique ID</EN>
+  </RUID>
+
+  <SEX>
+    <ID>J.Kelamin</ID>
+    <EN>Sex</EN>
+  </SEX>
+
+  <WEBSITE1>
+    <ID>Alamat Website 1</ID>
+    <EN>Website 1</EN>
+  </WEBSITE1>
+
+  <WEBSITE2>
+    <ID>Alamat Website 2</ID>
+    <EN>Website 2</EN>
+  </WEBSITE2>
+
+  <WEBSITE3>
+    <ID>Alamat Website 3</ID>
+    <EN>Website 3</EN>
+  </WEBSITE3>
+
+  <WEBSITE4>
+    <ID>Alamat Website 4</ID>
+    <EN>Website 4</EN>
+  </WEBSITE4>
+
+  <WEBSITE5>
+    <ID>Alamat Website 5</ID>
+    <EN>Website 5</EN>
+  </WEBSITE5>
+
+  <ZIP>
+    <ID>Kode Pos</ID>
+    <EN>Zip</EN>
+  </ZIP>
+
+  <PROD_CTGRY>
+    <ID>Kategori Produk</ID>
+    <EN>Product Category</EN>
+  </PROD_CTGRY>
+
+  <PROD_SUBCTGRY>
+    <ID>Sub Kategori Produk</ID>
+    <EN>Product Sub Category</EN>
+  </PROD_SUBCTGRY>
+
+  <PROD_TYP>
+    <ID>Tipe Produk</ID>
+    <EN>Product Type</EN>
+  </PROD_TYP>
+
+  <PROD_SUBTYP1>
+    <ID>Sub Tipe Produk 1</ID>
+    <EN>Product Sub Type 1</EN>
+  </PROD_SUBTYP1>
+
+  <PROD_SUBTYP2>
+    <ID>Sub Tipe Produk 2</ID>
+    <EN>Product Sub Type 2</EN>
+  </PROD_SUBTYP2>
+
+  <PROD_SUBTYP3>
+    <ID>Sub Tipe Produk 3</ID>
+    <EN>Product Sub Type 3</EN>
+  </PROD_SUBTYP3>
+
+  <PROD_SUBTYP4>
+    <ID>Sub Tipe Produk 4</ID>
+    <EN>Product Sub Type 4</EN>
+  </PROD_SUBTYP4>
+
+  <PROD_SUBTYP5>
+    <ID>Sub Tipe Produk 5</ID>
+    <EN>Product Sub Type 5</EN>
+  </PROD_SUBTYP5>
+
+  <PBLSHR_RUID>
+    <ID>Merk</ID>
+    <EN>Publisher</EN>
+  </PBLSHR_RUID>
+
+  <BIZ_PNR_AS_SUPPLIER>
+    <ID>Supplier</ID>
+    <EN>Supplier</EN>
+  </BIZ_PNR_AS_SUPPLIER>
+
+  <PROD_TYP_AS_CPU>
+    <ID>Jenis CPU</ID>
+    <EN>CPU Type</EN>
+  </PROD_TYP_AS_CPU>
+
+  <PROD_SUBTYP1_AS_MODEL>
+    <ID>Model</ID>
+    <EN>Model</EN>
+  </PROD_SUBTYP1_AS_MODEL>
+
+  <PROC_TYP_NM>
+    <ID>Tipe</ID>
+    <EN>Type</EN>
+  </PROC_TYP_NM>
+
+  <PROC_SPEED>
+    <ID>Speed</ID>
+    <EN>Speed</EN>
+  </PROC_SPEED>
+
+  <PROC_CORE>
+    <ID>Core</ID>
+    <EN>Core</EN>
+  </PROC_CORE>
+
+  <PBLSHR_NM_FOR_MB>
+    <ID>Manufacture</ID>
+    <EN>Manufacture</EN>
+  </PBLSHR_NM_FOR_MB>
+
+  <MB_TYP>
+    <ID>Tipe</ID>
+    <EN>Type</EN>
+  </MB_TYP>
+
+  <MB_CHIP>
+    <ID>Chipest</ID>
+    <EN>Chipset</EN>
+  </MB_CHIP>
+
+  <PBLSHR_NM_FOR_RAM>
+    <ID>RAM Manufacture</ID>
+    <EN>RAM Manufacture</EN>
+  </PBLSHR_NM_FOR_RAM>
+
+  <TYP_NM_FOR_RAM>
+    <ID>Memory Type</ID>
+    <EN>Memory Type</EN>
+  </TYP_NM_FOR_RAM>
+
+  <RAM_MODUL>
+    <ID>Memory Module</ID>
+    <EN>Memory Module</EN>
+  </RAM_MODUL>
+
+  <RAM_INST>
+    <ID>Total Memory Installed</ID>
+    <EN>Total Memory Installed</EN>
+  </RAM_INST>
+
+  <VGA_PBLSHR>
+    <ID>Manufacture</ID>
+    <EN>Manufacture</EN>
+  </VGA_PBLSHR>
+
+  <VGA_TYP>
+    <ID>Tipe</ID>
+    <EN>Type</EN>
+  </VGA_TYP>
+
+  <VGA_CHIP>
+    <ID>Chipest</ID>
+    <EN>Chipset</EN>
+  </VGA_CHIP>
+
+  <VGA_MEM>
+    <ID>Video Memory</ID>
+    <EN>Video Memory</EN>
+  </VGA_MEM>
+
+  <HDD_PBLSHR>
+    <ID>HD Manufacture</ID>
+    <EN>HD Manufacture</EN>
+  </HDD_PBLSHR>
+
+  <HDD_TYP>
+    <ID>HD Type</ID>
+    <EN>HD Type</EN>
+  </HDD_TYP>
+
+  <HDD_SPEED>
+    <ID>Speed</ID>
+    <EN>Speed</EN>
+  </HDD_SPEED>
+
+  <HDD_SIZE>
+    <ID>Hard Disk Size</ID>
+    <EN>Hard Disk Size</EN>
+  </HDD_SIZE>
+
+  <ODD_PBLSHR>
+    <ID>Optical Drive Manufacture</ID>
+    <EN>Optical Drive Manufacture</EN>
+  </ODD_PBLSHR>
+
+  <ODD_TYP>
+    <ID>Optical Drive Type</ID>
+    <EN>Optical Drive Type</EN>
+  </ODD_TYP>
+
+  <WRN_NO>
+    <ID>No. Kartu Garansi</ID>
+    <EN>Guarantee No</EN>
+  </WRN_NO>
+
+  <WRN_YEARTERM>
+    <ID>Masa Garansi</ID>
+    <EN>Term of Guarantee</EN>
+  </WRN_YEARTERM>
+
+  <WRN_PERIOD>
+    <ID>Periode Garansi</ID>
+    <EN>Guarantee Period</EN>
+  </WRN_PERIOD>
+
+  <YEARS>
+    <ID>Tahun</ID>
+    <EN>Year(s)</EN>
+  </YEARS>
+
+  <CHIPSET>
+    <ID>Chipset</ID>
+    <EN>Chipset</EN>
+  </CHIPSET>
+
+  <DISP_SIZE>
+    <ID>Display Size</ID>
+    <EN>Display Size</EN>
+  </DISP_SIZE>
+
+  <AUDIO>
+    <ID>Audio</ID>
+    <EN>Audio</EN>
+  </AUDIO>
+
+  <SPEAKER>
+    <ID>Speaker</ID>
+    <EN>Speaker</EN>
+  </SPEAKER>
+
+  <LAN_SPEED>
+    <ID>Lan Speed</ID>
+    <EN>Lan Speed</EN>
+  </LAN_SPEED>
+
+  <WIFI>
+    <ID>WIFI</ID>
+    <EN>WIFI</EN>
+  </WIFI>
+
+  <PROD_TYP_AS_GEN>
+    <ID>Jenis</ID>
+    <EN>Type</EN>
+  </PROD_TYP_AS_GEN>
+
+  <PROD_NM_AS_SW>
+    <ID>Nama Software</ID>
+    <EN>Software Name</EN>
+  </PROD_NM_AS_SW>
+
+  <PO_NO>
+    <ID>No. PO / SPK</ID>
+    <EN>PO / WO No.</EN>
+  </PO_NO>
+
+  <WO_NO>
+    <ID>No. Surat Jalan</ID>
+    <EN>Delivery Order No.</EN>
+  </WO_NO>
+
+  <TRN_DT>
+    <ID>Tgl. Trn.</ID>
+    <EN>Trn. Date</EN>
+  </TRN_DT>
+
+  <TRN_NO>
+    <ID>No. Trn.</ID>
+    <EN>Trn. No</EN>
+  </TRN_NO>
+
+  <TRN_QTY>
+    <ID>Jml. Barang</ID>
+    <EN>Trn. Qty</EN>
+  </TRN_QTY>
+
+  <TRN_PRICE>
+    <ID>Harga</ID>
+    <EN>Trn. Price</EN>
+  </TRN_PRICE>
+
+  <TRN_AMNT>
+    <ID>Total</ID>
+    <EN>Trn. Amount</EN>
+  </TRN_AMNT>
+
+  <PROD_ITMNO>
+    <ID>Nomor Seri</ID>
+    <EN>Serial Number</EN>
+  </PROD_ITMNO>
+
+  <ASST_ACT_RUID>
+    <ID>Tindakan</ID>
+    <EN>Action</EN>
+  </ASST_ACT_RUID>
+
+  <ASST_STS_RUID>
+    <ID>Status Asset</ID>
+    <EN>Asset Status</EN>
+  </ASST_STS_RUID>
+
+  <ASST_TAG_ID>
+    <ID>No. Asset</ID>
+    <EN>Asset No.</EN>
+  </ASST_TAG_ID>
+
+  <RSRC_CTR_PRTY_RUID>
+    <ID>Pihak Ketiga</ID>
+    <EN>Counter Party</EN>
+  </RSRC_CTR_PRTY_RUID>
+
+  <RSRC_USER_RUID>
+    <ID>Pengguna Asset</ID>
+    <EN>User of Asset</EN>
+  </RSRC_USER_RUID>
+
+  <STOCKIN_RUID>
+    <ID>RUID Asset</ID>
+    <EN>RUID of Asset</EN>
+  </STOCKIN_RUID>
+
+  <STOCKOUT02_RUID>
+    <ID>RUID Riwayat Asset</ID>
+    <EN>RUID of Asset History</EN>
+  </STOCKOUT02_RUID>
+
+  <DOC_REFF_NO>
+    <ID>Nomor Dokumen</ID>
+    <EN>Document Number</EN>
+  </DOC_REFF_NO>
+
+  <PBLSHR_NM>
+    <ID>Merek</ID>
+    <EN>Brand</EN>
+  </PBLSHR_NM>
+
+  <PROD_INFO>
+    <ID>Informasi Barang</ID>
+    <EN>Item Information</EN>
+  </PROD_INFO>
+
+  <TOTAL>
+    <ID>Total</ID>
+    <EN>Total</EN>
+  </TOTAL>
+
+  <EMP_ID>
+    <ID>Nip</ID>
+    <EN>Employee ID</EN>
+  </EMP_ID>
+
+  <BIZ_ACT>
+    <ID>Aktivitas Bisnis</ID>
+    <EN>Bussines Action</EN>
+  </BIZ_ACT>
+
+  <BIZ_ACT_EMP>
+    <ID>Aktivitas Kepegawaian</ID>
+    <EN>Employment Activity</EN>
+  </BIZ_ACT_EMP>
+
+  <RES_STS>
+    <ID>Status Resource</ID>
+    <EN>Resource Status</EN>
+  </RES_STS>
+
+  <RES_STS_EMP>
+    <ID>Status Kepegawaian</ID>
+    <EN>Employment Status</EN>
+  </RES_STS_EMP>
+
+  <RES_STS_AS_QUIT_REASON>
+    <ID>Alasan Pemberhentian</ID>
+    <EN>Reason of Quit</EN>
+  </RES_STS_AS_QUIT_REASON>
+
+  <RES_STS_STARTDT>
+    <ID>Tanggal Awal</ID>
+    <EN>Start Date</EN>
+  </RES_STS_STARTDT>
+
+  <RES_STS_ENDDT>
+    <ID>Tanggal Akhir</ID>
+    <EN>End Date</EN>
+  </RES_STS_ENDDT>
+
+  <IMG_SRC>
+    <ID>Sumber Gambar</ID>
+    <EN>Image Source</EN>
+  </IMG_SRC>
+
+  <IMG_SRC_EMP>
+    <ID>Pas photo</ID>
+    <EN>Photo</EN>
+  </IMG_SRC_EMP>
+
+  <RES_ID_AS_EMP_NO>
+    <ID>NIK</ID>
+    <EN>Employee ID</EN>
+  </RES_ID_AS_EMP_NO>
+
+  <RES_XID1_AS_ABSEN_NO>
+    <ID>No. Absen</ID>
+    <EN>Absen No.</EN>
+  </RES_XID1_AS_ABSEN_NO>
+
+  <BP_STS_AS_IS_ACTIVE>
+    <ID>Aktif / Non Aktif</ID>
+    <EN>Active / Inactive</EN>
+  </BP_STS_AS_IS_ACTIVE>
+
+  <PHN_HMO>
+    <ID>Telp. Rumah</ID>
+    <EN>Home Phone</EN>
+  </PHN_HMO>
+
+  <PHN_MBL>
+    <ID>Handphone</ID>
+    <EN>Handphone</EN>
+  </PHN_MBL>
+
+  <PHN_OFF>
+    <ID>Telp. Kantor</ID>
+    <EN>Office Phone</EN>
+  </PHN_OFF>
+
+  <FAX>
+    <ID>Fax</ID>
+    <EN>Fax</EN>
+  </FAX>
+
+  <MAIL>
+    <ID>Email</ID>
+    <EN>Email</EN>
+  </MAIL>
+
+  <WEBSITE>
+    <ID>Alamat Website</ID>
+    <EN>Website</EN>
+  </WEBSITE>
+
+  <ACT_YEAR>
+    <ID>Tahun Aktif</ID>
+    <EN>Active Year</EN>
+  </ACT_YEAR>
+
+  <RES_NM>
+    <ID>Nama</ID>
+    <EN>Name</EN>
+  </RES_NM>
+
+  <JOBTTL_RUID>
+    <ID>RUID Jenis Pekerjaan</ID>
+    <EN>Job Title RUID</EN>
+  </JOBTTL_RUID>
+
+  <JOBTTL_NM>
+    <ID>Jenis Pekerjaan</ID>
+    <EN>Job Title</EN>
+  </JOBTTL_NM>
+
+  <JOBTTLGRP_RUID>
+    <ID>Group Pekerjaan</ID>
+    <EN>Job Group</EN>
+  </JOBTTLGRP_RUID>
+
+  <JOBTTLGRP_NM>
+    <ID>Group Pekerjaan</ID>
+    <EN>Job Group</EN>
+  </JOBTTLGRP_NM>
+
+  <JOBTTLSUBGRP_RUID>
+    <ID>Sub Group Pekerjaan</ID>
+    <EN>Job Sub Group</EN>
+  </JOBTTLSUBGRP_RUID>
+
+  <JOBTTLSUBGRP_NM>
+    <ID>Sub Group Pekerjaan</ID>
+    <EN>Job Sub Group</EN>
+  </JOBTTLSUBGRP_NM>
+
+  <MSTCMPNY_RUID>
+    <ID>Perusahaan</ID>
+    <EN>Company</EN>
+  </MSTCMPNY_RUID>
+
+  <MSTBRNCH_RUID>
+    <ID>Cabang</ID>
+    <EN>Branch</EN>
+  </MSTBRNCH_RUID>
+
+  <MSTDEPT_RUID>
+    <ID>Departemen</ID>
+    <EN>Department</EN>
+  </MSTDEPT_RUID>
+
+  <MSTJOBTTL_RUID>
+    <ID>Jenis Pekerjaan</ID>
+    <EN>Job Title</EN>
+  </MSTJOBTTL_RUID>
+
+  <JOBTTL_AS_POSITION>
+    <ID>Posisi</ID>
+    <EN>Position</EN>
+  </JOBTTL_AS_POSITION>
+
+  <BIZ_PNR_AS_SUPPLIER>
+    <ID>Supplier</ID>
+    <EN>Supplier</EN>
+  </BIZ_PNR_AS_SUPPLIER>
+
+  <BTN_NEW>
+    <ID>New</ID>
+    <EN>New</EN>
+  </BTN_NEW>
+
+  <BTN_EDIT>
+    <ID>Edit</ID>
+    <EN>Edit</EN>
+  </BTN_EDIT>
+
+  <BTN_DELETE>
+    <ID>Delete</ID>
+    <EN>Delete</EN>
+  </BTN_DELETE>
+
+  <BTN_SAVE>
+    <ID>Save</ID>
+    <EN>Save</EN>
+  </BTN_SAVE>
+
+  <BTN_RESET>
+    <ID>Clear Screen</ID>
+    <EN>Clear Screen</EN>
+  </BTN_RESET>
+
+  <BTN_SAVE>
+    <ID>Save</ID>
+    <EN>Save</EN>
+  </BTN_SAVE>
+
+  <BTN_SEARCH>
+    <ID>Search</ID>
+    <EN>Search</EN>
+  </BTN_SEARCH>
+
+  <BTN_CLOSE>
+    <ID>Close</ID>
+    <EN>Close</EN>
+  </BTN_CLOSE>
+
+  <BTN_BROWSE>
+    <ID>Display Data</ID>
+    <EN>Display Data</EN>
+  </BTN_BROWSE>
+
+  <BTN_CHANGE_PSWD>
+    <ID>Change Password</ID>
+    <EN>Change Password</EN>
+  </BTN_CHANGE_PSWD>
+
+  <BTN_CANCEL>
+    <ID>Cancel</ID>
+    <EN>Cancel</EN>
+  </BTN_CANCEL>
+
+  <BTN_UPLOAD_PHOTO>
+    <ID>Change Photo</ID>
+    <EN>Change Photo</EN>
+  </BTN_UPLOAD_PHOTO>
+
+  <BTN_RESET_FIELD>
+    <ID>Clear</ID>
+    <EN>Clear</EN>
+  </BTN_RESET_FIELD>
+
+  <BTN_VIEW_DATA>
+    <ID>View Data</ID>
+    <EN>Tampilkan Data</EN>
+  </BTN_VIEW_DATA>
+
+  <TAB_PROFILE>
+    <ID>Profil</ID>
+    <EN>Profile</EN>
+  </TAB_PROFILE>
+
+  <TAB_CONTACT>
+    <ID>Kontak</ID>
+    <EN>Contact</EN>
+  </TAB_CONTACT>
+
+  <TAB_ADDRESS>
+    <ID>Alamat</ID>
+    <EN>Address</EN>
+  </TAB_ADDRESS>
+
+  <TAB_JOB>
+    <ID>Pekerjaan</ID>
+    <EN>Job</EN>
+  </TAB_JOB>
+
+  <TAB_OTHER>
+    <ID>Lain - lain</ID>
+    <EN>Other</EN>
+  </TAB_OTHER>
+
+  <TAB_GENERAL>
+    <ID>Umum</ID>
+    <EN>General</EN>
+  </TAB_GENERAL>
+
+  <TAB_HRS_CPY>
+    <ID>Competency</ID>
+    <EN>Competency</EN>
+  </TAB_HRS_CPY>
+
+  <TAB_HRS_KPI>
+    <ID>KPI</ID>
+    <EN>KPI</EN>
+  </TAB_HRS_KPI>
+
+  <TAB_HRS_RESULT>
+    <ID>Hasil Akhir</ID>
+    <EN>Hasil Akhir</EN>
+  </TAB_HRS_RESULT>
+
+  <GBX_GENERAL>
+    <ID>Umum</ID>
+    <EN>General</EN>
+  </GBX_GENERAL>
+
+  <GBX_ADDR_RIC>
+    <ID>Alamat KTP</ID>
+    <EN>ID Card Address</EN>
+  </GBX_ADDR_RIC>
+
+  <GBX_ADDR_DMCL>
+    <ID>Alamat Domisili</ID>
+    <EN>Domicile Address</EN>
+  </GBX_ADDR_DMCL>
+
+  <GBX_ASM_INFO_ITEM>
+    <ID>Informasi Barang</ID>
+    <EN>Item Information</EN>
+  </GBX_ASM_INFO_ITEM>
+
+  <GBX_ASM_INFO_ASSET>
+    <ID>Informasi Asset</ID>
+    <EN>Asset Information</EN>
+  </GBX_ASM_INFO_ASSET>
+
+  <GBX_HRS_AUTH_STEP_ITMTTL_CPYEVL>
+    <ID>Competency Evaluation</ID>
+    <EN>Competency Evaluation</EN>
+  </GBX_HRS_AUTH_STEP_ITMTTL_CPYEVL>
+
+  <GBX_HRS_AUTH_STEP_ITMTTL_CPYAPV>
+    <ID>Competency Approval</ID>
+    <EN>Competency Approval</EN>
+  </GBX_HRS_AUTH_STEP_ITMTTL_CPYAPV>
+
+  <GBX_HRS_AUTH_STEP_ITMTTL_KPIEVL>
+    <ID>KPI Evaluation</ID>
+    <EN>KPI Evaluation</EN>
+  </GBX_HRS_AUTH_STEP_ITMTTL_KPIEVL>
+
+  <GBX_HRS_AUTH_STEP_ITMTTL_DS>
+    <ID>Direct Superior</ID>
+    <EN>Direct Superior</EN>
+  </GBX_HRS_AUTH_STEP_ITMTTL_DS>
+
+  <GBX_HRS_AUTH_STEP_ITMTTL_AP>
+    <ID>Authorized Person</ID>
+    <EN>Authorized Person</EN>
+  </GBX_HRS_AUTH_STEP_ITMTTL_AP>
+
+  <GBX_HRS_AUTH_STEP_ITMTTL_KE>
+    <ID>KPI Evaluator</ID>
+    <EN>KPI Evaluator</EN>
+  </GBX_HRS_AUTH_STEP_ITMTTL_KE>
+
+  <GBX_HRS_AUTH_STEP_ITMTTL_CPYEVL_STS>
+    <ID>Competency Evaluation Status</ID>
+    <EN>Competency Evaluation Status</EN>
+  </GBX_HRS_AUTH_STEP_ITMTTL_CPYEVL_STS>
+
+  <GBX_HRS_AUTH_STEP_ITMTTL_CPYAPV_STS>
+    <ID>Competency Approval Status</ID>
+    <EN>Competency Approval Status</EN>
+  </GBX_HRS_AUTH_STEP_ITMTTL_CPYAPV_STS>
+
+  <GBX_HRS_AUTH_STEP_ITMTTL_KPIEVL_STS>
+    <ID>KPI Evaluation Status</ID>
+    <EN>KPI Evaluation Status</EN>
+  </GBX_HRS_AUTH_STEP_ITMTTL_KPIEVL_STS>
+
+  <GBX_HRS_AUTH_STEP>
+    <ID>Tahapan Appraisal</ID>
+    <EN>Tahapan Appraisal</EN>
+  </GBX_HRS_AUTH_STEP>
+
+  <LOV_RLGN_ISL>
+    <ID>Islam</ID>
+    <EN>Islam</EN>
+  </LOV_RLGN_ISL>
+
+  <LOV_RLGN_KRI>
+    <ID>Kristen</ID>
+    <EN>Kristen</EN>
+  </LOV_RLGN_KRI>
+
+  <LOV_RLGN_KAT>
+    <ID>Katolik</ID>
+    <EN>Katolik</EN>
+  </LOV_RLGN_KAT>
+
+  <LOV_RLGN_HIN>
+    <ID>Hindu</ID>
+    <EN>Hindu</EN>
+  </LOV_RLGN_HIN>
+
+  <LOV_RLGN_BUD>
+    <ID>Buddha</ID>
+    <EN>Buddha</EN>
+  </LOV_RLGN_BUD>
+
+  <LOV_RLGN_KHO>
+    <ID>Khonghucu</ID>
+    <EN>Khonghucu</EN>
+  </LOV_RLGN_KHO>
+
+  <LOV_RLGN_SHI>
+    <ID>Shinto</ID>
+    <EN>Shinto</EN>
+  </LOV_RLGN_SHI>
+
+  <LOV_RLGN_AGN>
+    <ID>Agnostic</ID>
+    <EN>Agnostic</EN>
+  </LOV_RLGN_AGN>
+
+  <LOV_RLGN_IND>
+    <ID>Indigenous</ID>
+    <EN>Indigenous</EN>
+  </LOV_RLGN_IND>
+
+  <LOV_RLGN_CHI>
+    <ID>Chinese traditional</ID>
+    <EN>Chinese traditional</EN>
+  </LOV_RLGN_CHI>
+
+  <LOV_RLGN_SIK>
+    <ID>Sikh</ID>
+    <EN>Sikh</EN>
+  </LOV_RLGN_SIK>
+
+  <LOV_RLGN_YAH>
+    <ID>Yahudi</ID>
+    <EN>Yahudi</EN>
+  </LOV_RLGN_YAH>
+
+  <LOV_SEX_MALE>
+    <ID>Pria</ID>
+    <EN>Male</EN>
+  </LOV_SEX_MALE>
+
+  <LOV_SEX_FEMALE>
+    <ID>Wanita</ID>
+    <EN>Female</EN>
+  </LOV_SEX_FEMALE>
+
+  <LOV_MRTLSTS_LAJ>
+    <ID>Lajang</ID>
+    <EN>Single</EN>
+  </LOV_MRTLSTS_LAJ>
+
+  <LOV_MRTLSTS_MEN>
+    <ID>Menikah</ID>
+    <EN>Married</EN>
+  </LOV_MRTLSTS_MEN>
+
+  <LOV_MRTLSTS_JAN>
+    <ID>Janda</ID>
+    <EN>Widow</EN>
+  </LOV_MRTLSTS_JAN>
+
+  <LOV_MRTLSTS_DUD>
+    <ID>Duda</ID>
+    <EN>Widower</EN>
+  </LOV_MRTLSTS_DUD>
+
+  <LOV_DEPT_ADMHR>
+    <ID>Administrasi Umum dan Personalia</ID>
+    <EN>General Administration And Personnel</EN>
+  </LOV_DEPT_ADMHR>
+
+  <LOV_DEPT_ART>
+    <ID>Artwork</ID>
+    <EN>Artwork</EN>
+  </LOV_DEPT_ART>
+
+  <LOV_DEPT_ARTNO>
+    <ID>Artwork  produksi</ID>
+    <EN>Artwork Production</EN>
+  </LOV_DEPT_ARTNO>
+
+  <LOV_DEPT_MAN>
+    <ID>Direksi</ID>
+    <EN>Management</EN>
+  </LOV_DEPT_MAN>
+
+  <LOV_DEPT_FIN>
+    <ID>Direktorat Keuangan</ID>
+    <EN>Financial Directorate</EN>
+  </LOV_DEPT_FIN>
+
+  <LOV_DEPT_BALI>
+    <ID>Gch. bali</ID>
+    <EN>Gch. bali</EN>
+  </LOV_DEPT_BALI>
+
+  <LOV_DEPT_ANT>
+    <ID>H. Accent</ID>
+    <EN>H. Accent</EN>
+  </LOV_DEPT_ANT>
+
+  <LOV_DEPT_ANTDB>
+    <ID>H. Accent Design and Build</ID>
+    <EN>H. Accent Design and Build</EN>
+  </LOV_DEPT_ANTDB>
+
+  <LOV_DEPT_ANTRTL>
+    <ID>H. Accent Retail</ID>
+    <EN>H. Accent Retail</EN>
+  </LOV_DEPT_ANTRTL>
+
+  <LOV_DEPT_IT>
+    <ID>I T</ID>
+    <EN>I T</EN>
+  </LOV_DEPT_IT>
+
+  <LOV_DEPT_COM>
+    <ID>Komisaris</ID>
+    <EN>Commissioner</EN>
+  </LOV_DEPT_COM>
+
+  <LOV_DEPT_MAR>
+    <ID>Marketing</ID>
+    <EN>Marketing</EN>
+  </LOV_DEPT_MAR>
+
+  <LOV_DEPT_EXE>
+    <ID>Pelaksanaan dan Mep</ID>
+    <EN>Executive and Mep</EN>
+  </LOV_DEPT_EXE>
+
+  <LOV_DEPT_ARC>
+    <ID>Perencanaan Arsitektur</ID>
+    <EN>Architecture Planning</EN>
+  </LOV_DEPT_ARC>
+
+  <LOV_DEPT_INT>
+    <ID>Perencanaan Interior</ID>
+    <EN>Interior Planning</EN>
+  </LOV_DEPT_INT>
+
+  <LOV_DEPT_LIG>
+    <ID>Perencanaan Lighting</ID>
+    <EN>Lighting Planning</EN>
+  </LOV_DEPT_LIG>
+
+  <LOV_DEPT_PRO>
+    <ID>Project Support</ID>
+    <EN>Project Support</EN>
+  </LOV_DEPT_PRO>
+
+  <LOV_DEPT_QUA>
+    <ID>Qualiti Assurance</ID>
+    <EN>Qualiti Assurance</EN>
+  </LOV_DEPT_QUA>
+
+  <LOV_DEPT_FINACT>
+    <ID>Tata Keuangan dan Akuntansi</ID>
+    <EN>Finance and Accounting</EN>
+  </LOV_DEPT_FINACT>
+
+  <LOV_DEPT_GA >
+    <ID>Umum non struktural</ID>
+    <EN>GA Non Structure</EN>
+  </LOV_DEPT_GA >
+
+  <LOV_DEPT_QMR>
+    <ID>Quality Management Representative (QMR)</ID>
+    <EN>Quality Management Representative (QMR)</EN>
+  </LOV_DEPT_QMR>
+
+  <LOV_BRNCH_HQ>
+    <ID>Kantor Pusat</ID>
+    <EN>Head Quarter</EN>
+  </LOV_BRNCH_HQ>
+
+  <LOV_BRNCH_001>
+    <ID>Cabang Bali</ID>
+    <EN>Branch Bali</EN>
+  </LOV_BRNCH_001>
+
+  <LOV_JOB_TTL_3D>
+    <ID>3 d</ID>
+    <EN>3 d</EN>
+  </LOV_JOB_TTL_3D>
+
+  <LOV_JOB_TTL_ADMUMKR>
+    <ID>Adm umum dan kasir</ID>
+    <EN>General Admin and Casier</EN>
+  </LOV_JOB_TTL_ADMUMKR>
+
+  <LOV_JOB_TTL_ADMIN>
+    <ID>Admin logistik</ID>
+    <EN>Admin logistik</EN>
+  </LOV_JOB_TTL_ADMIN>
+
+  <LOV_JOB_TTL_ADMUM>
+    <ID>Adm umum</ID>
+    <EN>General Affair</EN>
+  </LOV_JOB_TTL_ADMUM>
+
+  <LOV_JOB_TTL_ARSIT>
+    <ID>Arsitek engginer</ID>
+    <EN>Arsitek engginer</EN>
+  </LOV_JOB_TTL_ARSIT>
+
+  <LOV_JOB_TTL_ASSD>
+    <ID>Ass.desainer</ID>
+    <EN>Ass.desainer</EN>
+  </LOV_JOB_TTL_ASSD>
+
+  <LOV_JOB_TTL_ASSOS>
+    <ID>Assosiate</ID>
+    <EN>Assosiate</EN>
+  </LOV_JOB_TTL_ASSOS>
+
+  <LOV_JOB_TTL_COSTC>
+    <ID>Cost controler</ID>
+    <EN>Cost controler</EN>
+  </LOV_JOB_TTL_COSTC>
+
+  <LOV_JOB_TTL_DESAI>
+    <ID>Desainer</ID>
+    <EN>Desainer</EN>
+  </LOV_JOB_TTL_DESAI>
+
+  <LOV_JOB_TTL_DIRDES>
+    <ID>Direktur desain</ID>
+    <EN>Design Director</EN>
+  </LOV_JOB_TTL_DIRDES>
+
+  <LOV_JOB_TTL_DIROPS>
+    <ID>Direktur operasional</ID>
+    <EN>Operational Derictor</EN>
+  </LOV_JOB_TTL_DIROPS>
+
+  <LOV_JOB_TTL_DRAFT>
+    <ID>Drafter</ID>
+    <EN>Drafter</EN>
+  </LOV_JOB_TTL_DRAFT>
+
+  <LOV_JOB_TTL_DRAWI>
+    <ID>Drawing qc</ID>
+    <EN>Drawing qc</EN>
+  </LOV_JOB_TTL_DRAWI>
+
+  <LOV_JOB_TTL_DRIVE>
+    <ID>Driver</ID>
+    <EN>Driver</EN>
+  </LOV_JOB_TTL_DRIVE>
+
+  <LOV_JOB_TTL_ESTIM>
+    <ID>Estimasi</ID>
+    <EN>Estimation</EN>
+  </LOV_JOB_TTL_ESTIM>
+
+  <LOV_JOB_TTL_FINAN>
+    <ID>Financial controller</ID>
+    <EN>Financial controller</EN>
+  </LOV_JOB_TTL_FINAN>
+
+  <LOV_JOB_TTL_INTDES>
+    <ID>Interior desainer</ID>
+    <EN>Interior Designer</EN>
+  </LOV_JOB_TTL_INTDES>
+
+  <LOV_JOB_TTL_INTENG>
+    <ID>Interior engginering</ID>
+    <EN>Interior engginering</EN>
+  </LOV_JOB_TTL_INTENG>
+
+  <LOV_JOB_TTL_INTAUD>
+    <ID>Internal audit</ID>
+    <EN>Internal audit</EN>
+  </LOV_JOB_TTL_INTAUD>
+
+  <LOV_JOB_TTL_ISOOF>
+    <ID>Iso officer</ID>
+    <EN>Iso officer</EN>
+  </LOV_JOB_TTL_ISOOF>
+
+  <LOV_JOB_TTL_IT>
+    <ID>It</ID>
+    <EN>It</EN>
+  </LOV_JOB_TTL_IT>
+
+  <LOV_JOB_TTL_ITPRO>
+    <ID>It programmer</ID>
+    <EN>It programmer</EN>
+  </LOV_JOB_TTL_ITPRO>
+
+  <LOV_JOB_TTL_ITSUP>
+    <ID>It support</ID>
+    <EN>It support</EN>
+  </LOV_JOB_TTL_ITSUP>
+
+  <LOV_JOB_TTL_JUNIO>
+    <ID>Junior arsitek</ID>
+    <EN>Junior arsitek</EN>
+  </LOV_JOB_TTL_JUNIO>
+
+  <LOV_JOB_TTL_KADEP>
+    <ID>Kadep</ID>
+    <EN>Head of Department</EN>
+  </LOV_JOB_TTL_KADEP>
+
+  <LOV_JOB_TTL_KASIR>
+    <ID>Kasir</ID>
+    <EN>Casier</EN>
+  </LOV_JOB_TTL_KASIR>
+
+  <LOV_JOB_TTL_KEPK>
+    <ID>Kep.keuangan</ID>
+    <EN>head of Financial</EN>
+  </LOV_JOB_TTL_KEPK>
+
+  <LOV_JOB_TTL_KEPS>
+    <ID>Kep.studio drafter</ID>
+    <EN>Head of studio drafter</EN>
+  </LOV_JOB_TTL_KEPS>
+
+  <LOV_JOB_TTL_KEPAL>
+    <ID>Kepala divisi</ID>
+    <EN>Head of divisi</EN>
+  </LOV_JOB_TTL_KEPAL>
+
+  <LOV_JOB_TTL_KKP>
+    <ID>Kerja praktek</ID>
+    <EN>Internship</EN>
+  </LOV_JOB_TTL_KKP>
+
+  <LOV_JOB_TTL_PROJ_CTRL_KOORD>
+    <ID>Koord project control</ID>
+    <EN>Project Controller Koordinator</EN>
+  </LOV_JOB_TTL_PROJ_CTRL_KOORD>
+
+  <LOV_JOB_TTL_KORDENG>
+    <ID>Kord. engginer</ID>
+    <EN>Engginer Coordinator</EN>
+  </LOV_JOB_TTL_KORDENG>
+
+  <LOV_JOB_TTL_KORDKEN>
+    <ID>Kord.kendaraan</ID>
+    <EN>Vehicle Coordinator</EN>
+  </LOV_JOB_TTL_KORDKEN>
+
+  <LOV_JOB_TTL_KORDPDS>
+    <ID>Kord.princ des.</ID>
+    <EN>Design Principal Coordinator</EN>
+  </LOV_JOB_TTL_KORDPDS>
+
+  <LOV_JOB_TTL_KORDPRD>
+    <ID>Kord.produksi</ID>
+    <EN>Production Coordinator</EN>
+  </LOV_JOB_TTL_KORDPRD>
+
+  <LOV_JOB_TTL_KURIR>
+    <ID>Kurir</ID>
+    <EN>Courier</EN>
+  </LOV_JOB_TTL_KURIR>
+
+  <LOV_JOB_TTL_LANDS>
+    <ID>Landscape</ID>
+    <EN>Landscape</EN>
+  </LOV_JOB_TTL_LANDS>
+
+  <LOV_JOB_TTL_LANSC>
+    <ID>Lanscape desainer</ID>
+    <EN>Lanscape desainer</EN>
+  </LOV_JOB_TTL_LANSC>
+
+  <LOV_JOB_TTL_LEGAL_OFF>
+    <ID>Legal officer</ID>
+    <EN>Legal officer</EN>
+  </LOV_JOB_TTL_LEGAL_OFF>
+
+  <LOV_JOB_TTL_LOGIS>
+    <ID>Logistik</ID>
+    <EN>Logistic</EN>
+  </LOV_JOB_TTL_LOGIS>
+
+  <LOV_JOB_TTL_MAGAN>
+    <ID>Magang</ID>
+    <EN>Apprentice</EN>
+  </LOV_JOB_TTL_MAGAN>
+
+  <LOV_JOB_TTL_MAINT>
+    <ID>Maintenance</ID>
+    <EN>Maintenance</EN>
+  </LOV_JOB_TTL_MAINT>
+
+  <LOV_JOB_TTL_MKTINT_DES>
+    <ID>Marketing int.designer</ID>
+    <EN>Marketing int.designer</EN>
+  </LOV_JOB_TTL_MKTINT_DES>
+
+  <LOV_JOB_TTL_MKTOFF>
+    <ID>Marketing officer</ID>
+    <EN>Marketing officer</EN>
+  </LOV_JOB_TTL_MKTOFF>
+
+  <LOV_JOB_TTL_MKTPLS>
+    <ID>Marketing pelaksanaan</ID>
+    <EN>Marketing Executor</EN>
+  </LOV_JOB_TTL_MKTPLS>
+
+  <LOV_JOB_TTL_MEKAN>
+    <ID>Mekanik</ID>
+    <EN>Mecanic</EN>
+  </LOV_JOB_TTL_MEKAN>
+
+  <LOV_JOB_TTL_MEP>
+    <ID>Mep</ID>
+    <EN>Mep</EN>
+  </LOV_JOB_TTL_MEP>
+
+  <LOV_JOB_TTL_NETWO>
+    <ID>Network eng</ID>
+    <EN>Network eng</EN>
+  </LOV_JOB_TTL_NETWO>
+
+  <LOV_JOB_TTL_OFFIC>
+    <ID>Office boy</ID>
+    <EN>Office boy</EN>
+  </LOV_JOB_TTL_OFFIC>
+
+  <LOV_JOB_TTL_OPERA>
+    <ID>Operasional</ID>
+    <EN>Operational</EN>
+  </LOV_JOB_TTL_OPERA>
+
+  <LOV_JOB_TTL_OPERA_GDG>
+    <ID>Ops gudang</ID>
+    <EN>warehouse Officer</EN>
+  </LOV_JOB_TTL_OPERA_GDG>
+
+  <LOV_JOB_TTL_PELAK>
+    <ID>Pelaksana</ID>
+    <EN>Executor</EN>
+  </LOV_JOB_TTL_PELAK>
+
+  <LOV_JOB_TTL_PENGA>
+    <ID>Pengawas</ID>
+    <EN>Supervisor</EN>
+  </LOV_JOB_TTL_PENGA>
+
+  <LOV_JOB_TTL_PERSP>
+    <ID>Perspektor</ID>
+    <EN>Perspektor</EN>
+  </LOV_JOB_TTL_PERSP>
+
+  <LOV_JOB_TTL_PRINC>
+    <ID>Principal design</ID>
+    <EN>Principal design</EN>
+  </LOV_JOB_TTL_PRINC>
+
+  <LOV_JOB_TTL_PRODDS>
+    <ID>Produk desainer</ID>
+    <EN>Produk desainer</EN>
+  </LOV_JOB_TTL_PRODDS>
+
+  <LOV_JOB_TTL_PRODU>
+    <ID>Produksi</ID>
+    <EN>Production</EN>
+  </LOV_JOB_TTL_PRODU>
+
+  <LOV_JOB_TTL_PRJCTRL>
+    <ID>Project controller</ID>
+    <EN>Project controller</EN>
+  </LOV_JOB_TTL_PRJCTRL>
+
+  <LOV_JOB_TTL_PRJDS>
+    <ID>Project designer</ID>
+    <EN>Project designer</EN>
+  </LOV_JOB_TTL_PRJDS>
+
+  <LOV_JOB_TTL_PRJKOR>
+    <ID>Project koordinator</ID>
+    <EN>Project Coordinator</EN>
+  </LOV_JOB_TTL_PRJKOR>
+
+  <LOV_JOB_TTL_PRJMAN>
+    <ID>Project manager</ID>
+    <EN>Project manager</EN>
+  </LOV_JOB_TTL_PRJMAN>
+
+  <LOV_JOB_TTL_PUBLI>
+    <ID>Public relationship</ID>
+    <EN>Public relationship</EN>
+  </LOV_JOB_TTL_PUBLI>
+
+  <LOV_JOB_TTL_QA>
+    <ID>Quality assurance</ID>
+    <EN>Quality assurance</EN>
+  </LOV_JOB_TTL_QA>
+
+  <LOV_JOB_TTL_QC>
+    <ID>Quality control</ID>
+    <EN>Quality control</EN>
+  </LOV_JOB_TTL_QC>
+
+  <LOV_JOB_TTL_RECEP>
+    <ID>Receptionist</ID>
+    <EN>Receptionist</EN>
+  </LOV_JOB_TTL_RECEP>
+
+  <LOV_JOB_TTL_SECUR>
+    <ID>Security</ID>
+    <EN>Security</EN>
+  </LOV_JOB_TTL_SECUR>
+
+  <LOV_JOB_TTL_SENIO>
+    <ID>Senior controler</ID>
+    <EN>Senior controler</EN>
+  </LOV_JOB_TTL_SENIO>
+
+  <LOV_JOB_TTL_STAFF>
+    <ID>Staff</ID>
+    <EN>Staff</EN>
+  </LOV_JOB_TTL_STAFF>
+
+  <LOV_JOB_TTL_STAFFACC>
+    <ID>Staff accounting</ID>
+    <EN>Staff accounting</EN>
+  </LOV_JOB_TTL_STAFFACC>
+
+  <LOV_JOB_TTL_STAFFADM>
+    <ID>Staff adm</ID>
+    <EN>Staff adm</EN>
+  </LOV_JOB_TTL_STAFFADM>
+
+  <LOV_JOB_TTL_STAFFGDG>
+    <ID>Staff gudang</ID>
+    <EN>Staff Warehouse</EN>
+  </LOV_JOB_TTL_STAFFGDG>
+
+  <LOV_JOB_TTL_STAFFHRD>
+    <ID>Staff hrd</ID>
+    <EN>Staff hrd</EN>
+  </LOV_JOB_TTL_STAFFHRD>
+
+  <LOV_JOB_TTL_STAFFLOG>
+    <ID>Staff logistik</ID>
+    <EN>Staff Logistic</EN>
+  </LOV_JOB_TTL_STAFFLOG>
+
+  <LOV_JOB_TTL_STAFFPJK>
+    <ID>Staff pajak</ID>
+    <EN>Staff Tax</EN>
+  </LOV_JOB_TTL_STAFFPJK>
+
+  <LOV_JOB_TTL_STAFFPLS>
+    <ID>Staff pelaksana</ID>
+    <EN>Staff Executor</EN>
+  </LOV_JOB_TTL_STAFFPLS>
+
+  <LOV_JOB_TTL_STAFFTAG>
+    <ID>Staff penagihan</ID>
+    <EN>Staff billing</EN>
+  </LOV_JOB_TTL_STAFFTAG>
+
+  <LOV_JOB_TTL_STAFFTUNJ>
+    <ID>Staff penunjang</ID>
+    <EN>Staff support</EN>
+  </LOV_JOB_TTL_STAFFTUNJ>
+
+  <LOV_JOB_TTL_STAFFPPS>
+    <ID>Staff/perpustakaan</ID>
+    <EN>Staff/Library</EN>
+  </LOV_JOB_TTL_STAFFPPS>
+
+  <LOV_JOB_TTL_STAFFSEK>
+    <ID>Staff/sekretariat</ID>
+    <EN>Staff/secretariat</EN>
+  </LOV_JOB_TTL_STAFFSEK>
+
+  <LOV_JOB_TTL_SPV>
+    <ID>Supervisor</ID>
+    <EN>Supervisor</EN>
+  </LOV_JOB_TTL_SPV>
+
+  <LOV_JOB_TTL_GARDENER>
+    <ID>Tukang kebun</ID>
+    <EN>Gardener</EN>
+  </LOV_JOB_TTL_GARDENER>
+
+  <LOV_ASST_STS_HANDOVER>
+    <ID>Serah Terima User</ID>
+    <EN>Handover to user</EN>
+  </LOV_ASST_STS_HANDOVER>
+
+  <LOV_ASST_STS_USED>
+    <ID>Digunakan/Diinstall</ID>
+    <EN>Inused / Installed</EN>
+  </LOV_ASST_STS_USED>
+
+  <LOV_ASST_STS_IDLE>
+    <ID>Siaga</ID>
+    <EN>Idle</EN>
+  </LOV_ASST_STS_IDLE>
+
+  <LOV_ASST_STS_DEFECTIVE>
+    <ID>Rusak</ID>
+    <EN>Defective</EN>
+  </LOV_ASST_STS_DEFECTIVE>
+
+  <LOV_ASST_STS_RETURN>
+    <ID>Dikembalikan ke vendor</ID>
+    <EN>Return to vendor</EN>
+  </LOV_ASST_STS_RETURN>
+
+  <LOV_ASST_STS_STORED>
+    <ID>Digudang</ID>
+    <EN>Stored to warehouse</EN>
+  </LOV_ASST_STS_STORED>
+
+  <LOV_ASST_STS_MISSING>
+    <ID>Hilang</ID>
+    <EN>Missing</EN>
+  </LOV_ASST_STS_MISSING>
+
+  <LOV_ASST_STS_ANLZBYIT>
+    <ID>Di Analisa Internal IT</ID>
+    <EN>Analize by IT</EN>
+  </LOV_ASST_STS_ANLZBYIT>
+
+  <LOV_ASST_STS_ANLZ_BYEXT>
+    <ID>Di Analisa Internal Vendor</ID>
+    <EN>Analize by Vendor</EN>
+  </LOV_ASST_STS_ANLZ_BYEXT>
+
+  <LOV_ASST_STS_FIXING_BYIT>
+    <ID>Di Perbaiki Internal IT</ID>
+    <EN>Fixing by IT</EN>
+  </LOV_ASST_STS_FIXING_BYIT>
+
+  <LOV_ASST_STS_FIXING_BYEXT>
+    <ID>Di Perbaiki Internal Vendor</ID>
+    <EN>Fixing by Vendor</EN>
+  </LOV_ASST_STS_FIXING_BYEXT>
+
+  <LOV_ASST_STS_MAINTAIN_BYIT>
+    <ID>Pemeliharaan IT</ID>
+    <EN>Maintain by IT</EN>
+  </LOV_ASST_STS_MAINTAIN_BYIT>
+
+  <LOV_ASST_STS_MAINTAIN_BYEXT>
+    <ID>pemeliharaan Vendor</ID>
+    <EN>Maintain by Vendor</EN>
+  </LOV_ASST_STS_MAINTAIN_BYEXT>
+
+  <LOV_ASST_STS_OTHER>
+    <ID>Lainnya</ID>
+    <EN>Others</EN>
+  </LOV_ASST_STS_OTHER>
+
+  <LOV_ASST_ACT_RECORDING>
+    <ID>Pendataan</ID>
+    <EN>Recording</EN>
+  </LOV_ASST_ACT_RECORDING>
+
+  <LOV_ASST_ACT_HANDSOVER>
+    <ID>Serah Terima</ID>
+    <EN>handover</EN>
+  </LOV_ASST_ACT_HANDSOVER>
+
+  <LOV_ASST_ACT_ACTION>
+    <ID>Tindakan</ID>
+    <EN>Action</EN>
+  </LOV_ASST_ACT_ACTION>
+
+  <LOV_HRS_EMP_EXISTS_ACTIVE>
+    <ID>Aktif</ID>
+    <EN>Active</EN>
+  </LOV_HRS_EMP_EXISTS_ACTIVE>
+
+  <LOV_HRS_EMP_EXISTS_LEAVE>
+    <ID>Cuti</ID>
+    <EN>Leave</EN>
+  </LOV_HRS_EMP_EXISTS_LEAVE>
+
+  <LOV_HRS_EMP_EXISTS_QUIT>
+    <ID>Berhenti</ID>
+    <EN>Quit</EN>
+  </LOV_HRS_EMP_EXISTS_QUIT>
+
+  <LOV_HRS_EMPSTS_PROB>
+    <ID>Masa Orientasi</ID>
+    <EN>Probation</EN>
+  </LOV_HRS_EMPSTS_PROB>
+
+  <LOV_HRS_EMPSTS_CONT>
+    <ID>Kontrak</ID>
+    <EN>Contract</EN>
+  </LOV_HRS_EMPSTS_CONT>
+
+  <LOV_HRS_EMPSTS_PRMT>
+    <ID>Karyawan Tetap</ID>
+    <EN>Permanent</EN>
+  </LOV_HRS_EMPSTS_PRMT>
+
+  <LOV_HRS_EMPSTS_ENDPROB>
+    <ID>Selesai Masa Orientasi</ID>
+    <EN>End of Probation</EN>
+  </LOV_HRS_EMPSTS_ENDPROB>
+
+  <LOV_HRS_EMPSTS_ENDCONT>
+    <ID>Selesai Kontrak</ID>
+    <EN>End of Contract</EN>
+  </LOV_HRS_EMPSTS_ENDCONT>
+
+  <LOV_HRS_EMPSTS_PENSION>
+    <ID>Pensiun</ID>
+    <EN>Pension</EN>
+  </LOV_HRS_EMPSTS_PENSION>
+
+  <LOV_HRS_EMPSTS_RESIGN>
+    <ID>Mengundurkan Diri</ID>
+    <EN>Resign</EN>
+  </LOV_HRS_EMPSTS_RESIGN>
+
+  <LOV_HRS_EMPSTS_FIRED>
+    <ID>Diberhentikan</ID>
+    <EN>Fired</EN>
+  </LOV_HRS_EMPSTS_FIRED>
+
+  <LOV_HRS_EMP_BIZACT_NEW>
+    <ID>Penambahan Karyawan</ID>
+    <EN>New Employment</EN>
+  </LOV_HRS_EMP_BIZACT_NEW>
+
+  <LOV_HRS_EMP_BIZACT_PROMOTION>
+    <ID>Promosi Karyawan</ID>
+    <EN>Promotion</EN>
+  </LOV_HRS_EMP_BIZACT_PROMOTION>
+
+  <LOV_HRS_EMP_BIZACT_DEMOTION>
+    <ID>Penurunan Status Karyawan</ID>
+    <EN>Demotion</EN>
+  </LOV_HRS_EMP_BIZACT_DEMOTION>
+
+  <LOV_HRS_EMP_BIZACT_QUIT>
+    <ID>Pemberhentian Karyawan</ID>
+    <EN>Quit</EN>
+  </LOV_HRS_EMP_BIZACT_QUIT>
+
+  <LOV_HRS_EMP_BIZACT_REV_USR>
+    <ID>Perbaikan Data Karyawan</ID>
+    <EN>Employment Data Revision</EN>
+  </LOV_HRS_EMP_BIZACT_REV_USR>
+
+  <LOV_HRS_EMP_BIZACT_REV_ADM>
+    <ID>Perbaikan Data Karyawan Oleh Admin</ID>
+    <EN>Admin Maintenance</EN>
+  </LOV_HRS_EMP_BIZACT_REV_ADM>
+
+  <MSGBX_TTL_INFO>
+    <ID>Informasi</ID>
+    <EN>Information</EN>
+  </MSGBX_TTL_INFO>
+
+  <MSGBX_TTL_CONF>
+    <ID>Konfirmasi</ID>
+    <EN>Confirmation</EN>
+  </MSGBX_TTL_CONF>
+
+  <MSGBX_TTL_WAR>
+    <ID>Peringatan</ID>
+    <EN>Warning</EN>
+  </MSGBX_TTL_WAR>
+
+  <MSGBX_TTL_ERR>
+    <ID>Error</ID>
+    <EN>Kesalahan</EN>
+  </MSGBX_TTL_ERR>
+
+  <MSG_CRUD_NEW_SUCCESS>
+    <ID>Data baru berhasil disimpan</ID>
+    <EN>Save new data success</EN>
+  </MSG_CRUD_NEW_SUCCESS>
+
+  <MSG_CRUD_NEW_FAILED>
+    <ID>Data baru gagal disimpan</ID>
+    <EN>save new data failed</EN>
+  </MSG_CRUD_NEW_FAILED>
+
+  <MSG_CRUD_NEW_PROCESS>
+    <ID>Sedang manambah data baru</ID>
+    <EN>Saving new data on progress</EN>
+  </MSG_CRUD_NEW_PROCESS>
+
+  <MSG_CRUD_UPD_SUCCESS>
+    <ID>Perubahan data berhasil disimpan</ID>
+    <EN>Update data success</EN>
+  </MSG_CRUD_UPD_SUCCESS>
+
+  <MSG_CRUD_UPD_FAILED>
+    <ID>Perubahan data gagal disimpan</ID>
+    <EN>Update data failed</EN>
+  </MSG_CRUD_UPD_FAILED>
+
+  <MSG_CRUD_UPD_PROCESS>
+    <ID>Sedang menyimpan Perubahan data</ID>
+    <EN>Update data on progress</EN>
+  </MSG_CRUD_UPD_PROCESS>
+
+  <MSG_CRUD_DEL_SUCCESS>
+    <ID>Data berhasil dihapus</ID>
+    <EN>Delete data success</EN>
+  </MSG_CRUD_DEL_SUCCESS>
+
+  <MSG_CRUD_DEL_FAILED>
+    <ID>Data gagal dihapus</ID>
+    <EN>Delete data failed</EN>
+  </MSG_CRUD_DEL_FAILED>
+
+  <MSG_CRUD_DEL_PROCESS>
+    <ID>Sedang melakukan penghapusan data</ID>
+    <EN>Delete data on progress</EN>
+  </MSG_CRUD_DEL_PROCESS>
+
+  <MSG_CRUD_SAVE_SUCCESS>
+    <ID>Data berhasil disimpan</ID>
+    <EN>Save data success</EN>
+  </MSG_CRUD_SAVE_SUCCESS>
+
+  <MSG_CRUD_SAVE_FAILED>
+    <ID>Data gagal disimpan</ID>
+    <EN>Save data failed</EN>
+  </MSG_CRUD_SAVE_FAILED>
+
+  <MSG_CRUD_SAVE_PROCESS>
+    <ID>Data sedang disimpan</ID>
+    <EN>Save data on progress</EN>
+  </MSG_CRUD_SAVE_PROCESS>
+
+  <MSG_DS_SUCCESS>
+    <ID>Pengambilan data berhasil</ID>
+    <EN>Populate data success</EN>
+  </MSG_DS_SUCCESS>
+
+  <MSG_DS_FAILED>
+    <ID>Pengambilan data gagal</ID>
+    <EN>Populate data failed</EN>
+  </MSG_DS_FAILED>
+
+  <MSG_DS_PROCESS>
+    <ID>Sedang proses pengambilan data</ID>
+    <EN>Populate data on progress</EN>
+  </MSG_DS_PROCESS>
+
+  <MSG_INFO_DATA_EXIST>
+    <ID>Data sudah ada</ID>
+    <EN>Data already exist</EN>
+  </MSG_INFO_DATA_EXIST>
+
+  <MSG_INFO_WAIT>
+    <ID>Harap tunggu</ID>
+    <EN>Please wait</EN>
+  </MSG_INFO_WAIT>
+
+  <MSG_INFO_MANDATORY>
+    <ID>Field tidak boleh kosong</ID>
+    <EN>Field is mandatory</EN>
+  </MSG_INFO_MANDATORY>
+
+  <MSG_INFO_REDUNDANCY>
+    <ID>Data sudah digunakan</ID>
+    <EN>Data already in use</EN>
+  </MSG_INFO_REDUNDANCY>
+
+  <MSG_INFO_DATA_INUSE>
+    <ID>Data sudah digunakan</ID>
+    <EN>Data already in use</EN>
+  </MSG_INFO_DATA_INUSE>
+
+  <MSG_INFO_MANDATORY_CHECK>
+    <ID>Pengecekan field wajib diisi</ID>
+    <EN>Mandatory field checking</EN>
+  </MSG_INFO_MANDATORY_CHECK>
+
+  <MSG_INFO_REDUNDANCY_CHECK>
+    <ID>Pengecekan data ganda</ID>
+    <EN>Redundancy checking</EN>
+  </MSG_INFO_REDUNDANCY_CHECK>
+
+  <MSG_INFO_INVALID_ENTRY>
+    <ID>Terjadi kesalahan Entry pada field berwarna merah</ID>
+    <EN>Invalid data entry, please see red color field</EN>
+  </MSG_INFO_INVALID_ENTRY>
+
+  <MSG_INFO_LOAD_PROCESS>
+    <ID>Sedang proses data</ID>
+    <EN>Loading data on progress</EN>
+  </MSG_INFO_LOAD_PROCESS>
+
+  <MSG_INFO_LOGIN_FAILED>
+    <ID>
+      &lt;b&gt; Login ditolak : (Penyebab) &lt;/b&gt;
+      &lt;BR&gt; =====================
+      &lt;BR&gt; 1) User ID salah.
+      &lt;BR&gt; 2) Password salah.
+      &lt;BR&gt; 3) Akses user terbatas.
+      &lt;BR&gt; Silahkan hubungi sistem admin untuk informasi lebih lanjut.
+    </ID>
+    <EN>
+      &lt;b&gt; Login rejected : (Reason) &lt;/b&gt;
+      &lt;BR&gt; ====================
+      &lt;BR&gt; 1) Invalid User ID.
+      &lt;BR&gt; 2) Invalid Password.
+      &lt;BR&gt; 3) User access denied.
+      &lt;BR&gt; Please contact System Admin for further information.
+    </EN>
+  </MSG_INFO_LOGIN_FAILED>
+
+  <MSG_INFO_LOGIN_SUCCESS>
+    <ID>Login berhasil</ID>
+    <EN>Login succeded</EN>
+  </MSG_INFO_LOGIN_SUCCESS>
+
+  <MSG_INFO_LOGIN_CHANGE_PSWD_FAILED>
+    <ID>Perubahan password gagal</ID>
+    <EN>Change password failed</EN>
+  </MSG_INFO_LOGIN_CHANGE_PSWD_FAILED>
+
+  <MSG_INFO_LOGIN_CHANGE_PSWD_SUCCESS>
+    <ID>Perubahan password berhasil</ID>
+    <EN>Change password succeded</EN>
+  </MSG_INFO_LOGIN_CHANGE_PSWD_SUCCESS>
+
+  <MSG_INFO_LOGIN_CHANGE_PSWD_WRONG_OLDPSWD>
+    <ID>Password lama salah</ID>
+    <EN>Wrong old password</EN>
+  </MSG_INFO_LOGIN_CHANGE_PSWD_WRONG_OLDPSWD>
+
+  <MSG_INFO_LOGIN_CHANGE_PSWD_DIFF_NEW_PSWD>
+    <ID>Password baru tidak sama</ID>
+    <EN>New password not match</EN>
+  </MSG_INFO_LOGIN_CHANGE_PSWD_DIFF_NEW_PSWD>
+
+  <MSG_INFO_LOGIN_CHANGE_PSWD_INVALID_USRID>
+    <ID>User ID salah</ID>
+    <EN>Invalid user ID</EN>
+  </MSG_INFO_LOGIN_CHANGE_PSWD_INVALID_USRID>
+
+  <MSG_INFO_LOGIN_MDLE_RESTRICTED>
+    <ID>Akses ke modul ini ditolak</ID>
+    <EN>Access denied for thi module</EN>
+  </MSG_INFO_LOGIN_MDLE_RESTRICTED>
+
+  <MSG_INFO_LOGIN_ONPROGRESS>
+    <ID>Sedang proses login...</ID>
+    <EN>Login in progress…</EN>
+  </MSG_INFO_LOGIN_ONPROGRESS>
+
+  <DLGBOX_LKP_TTL>
+    <ID>Lihat Data</ID>
+    <EN>Lookup Data</EN>
+  </DLGBOX_LKP_TTL>
+
+  <DLGBOX_LKP_TTL_RSRC_TITLE_LANG_ID>
+    <ID>Lihat Data : Resource</ID>
+    <EN>Lookup Data : Resource</EN>
+  </DLGBOX_LKP_TTL_RSRC_TITLE_LANG_ID>
+
+  <DLGBOX_LKP_LBL_SEARCH_LANG_ID>
+    <ID>Cari Data</ID>
+    <EN>Search Value</EN>
+  </DLGBOX_LKP_LBL_SEARCH_LANG_ID>
+
+  <DLGBOX_LKP_LBL_FILTER_LANG_ID>
+    <ID>Saring</ID>
+    <EN>Filter</EN>
+  </DLGBOX_LKP_LBL_FILTER_LANG_ID>
+
+  <DLGBOX_LKP_LBL_FOOTER_PAGE_PFX_LANG_ID>
+    <ID>Menampilkan</ID>
+    <EN>Showing</EN>
+  </DLGBOX_LKP_LBL_FOOTER_PAGE_PFX_LANG_ID>
+
+  <DLGBOX_LKP_LBL_FOOTER_PAGE_MID1_LANG_ID>
+    <ID>s/d</ID>
+    <EN>To</EN>
+  </DLGBOX_LKP_LBL_FOOTER_PAGE_MID1_LANG_ID>
+
+  <DLGBOX_LKP_LBL_FOOTER_PAGE_MID2_LANG_ID>
+    <ID>Dari</ID>
+    <EN>Of</EN>
+  </DLGBOX_LKP_LBL_FOOTER_PAGE_MID2_LANG_ID>
+
+  <DLGBOX_LKP_LBL_FOOTER_PAGE_SFX_LANG_ID>
+    <ID>Data</ID>
+    <EN>Entries</EN>
+  </DLGBOX_LKP_LBL_FOOTER_PAGE_SFX_LANG_ID>
+
+  <DLGBOX_LKP_LBL_HEADER_PAGE_PFX_LANG_ID>
+    <ID>Tampilkan</ID>
+    <EN>Show</EN>
+  </DLGBOX_LKP_LBL_HEADER_PAGE_PFX_LANG_ID>
+
+  <DLGBOX_LKP_LBL_HEADER_PAGE_SFX_LANG_ID>
+    <ID>Data per halaman</ID>
+    <EN>Records per page</EN>
+  </DLGBOX_LKP_LBL_HEADER_PAGE_SFX_LANG_ID>
+
+  <DLGBOX_LKP_CMD_RESET_LANG_ID>
+    <ID>Bersihkan</ID>
+    <EN>Reset</EN>
+  </DLGBOX_LKP_CMD_RESET_LANG_ID>
+
+  <DLGBOX_LKP_MSG_ZRECORD1_LANG_ID>
+    <ID>Data tidak ditemukan</ID>
+    <EN>Data not found</EN>
+  </DLGBOX_LKP_MSG_ZRECORD1_LANG_ID>
+
+  <DLGBOX_LKP_MSG_ZRECORD2_LANG_ID>
+    <ID>Menampilkan 0 s/d 0 dari 0 data</ID>
+    <EN>Showing 0 to 0 of 0 records</EN>
+  </DLGBOX_LKP_MSG_ZRECORD2_LANG_ID>
+
+  <DLGBOX_LKP_TTL_ASM_PROD_CTGRY_LANG_ID>
+    <ID>Lihat Data : Kategori Produk</ID>
+    <EN>Lookup Data : Product Category</EN>
+  </DLGBOX_LKP_TTL_ASM_PROD_CTGRY_LANG_ID>
+
+  <DLGBOX_LKP_TTL_ASM_PROD_SUBCTGRY_LANG_ID>
+    <ID>Lihat Data : Sub Kategori Produk</ID>
+    <EN>Lookup Data : Product Sub Category</EN>
+  </DLGBOX_LKP_TTL_ASM_PROD_SUBCTGRY_LANG_ID>
+
+  <DLGBOX_LKP_TTL_ASM_PROD_TYP_LANG_ID>
+    <ID>Lihat Data : Tipe Produk</ID>
+    <EN>Lookup Data : Product Type</EN>
+  </DLGBOX_LKP_TTL_ASM_PROD_TYP_LANG_ID>
+
+  <DLGBOX_LKP_TTL_ASM_PBLSHR_LANG_ID>
+    <ID>Lihat Data : Merk</ID>
+    <EN>Lookup Data : Brand</EN>
+  </DLGBOX_LKP_TTL_ASM_PBLSHR_LANG_ID>
+
+  <DLGBOX_LKP_TTL_ASM_BIZ_PNR_LANG_ID>
+    <ID>Lihat Data : Supplier</ID>
+    <EN>Lookup Data : Supplier</EN>
+  </DLGBOX_LKP_TTL_ASM_BIZ_PNR_LANG_ID>
+
+  <DLGBOX_LKP_TTL_ASM_STOCKIN_LANG_ID>
+    <ID>Lihat Data : Persediaan Barang</ID>
+    <EN>Lookup Data : Stock</EN>
+  </DLGBOX_LKP_TTL_ASM_STOCKIN_LANG_ID>
+
+  <DLGBOX_LKP_TTL_ASM_ASST_ACT_LANG_ID>
+    <ID>Lihat Data : Aktivitas</ID>
+    <EN>Lookup Data : Action</EN>
+  </DLGBOX_LKP_TTL_ASM_ASST_ACT_LANG_ID>
+
+  <DLGBOX_LKP_TTL_ASM_ASST_STS_GRP_LANG_ID>
+    <ID>Lihat Data : Status Aset</ID>
+    <EN>Lookup Data : Asset Status</EN>
+  </DLGBOX_LKP_TTL_ASM_ASST_STS_GRP_LANG_ID>
+
+  <DLGBOX_LKP_TTL_ASM_ASST_STS_LANG_ID>
+    <ID>Lihat Data : Status Aset</ID>
+    <EN>Lookup Data : Asset Status</EN>
+  </DLGBOX_LKP_TTL_ASM_ASST_STS_LANG_ID>
+
+  <DLGBOX_LKP_TTL_ASM_STOCKINCPU_LANG_ID>
+    <ID>Lihat Data : CPU</ID>
+    <EN>Lookup Data : CPU</EN>
+  </DLGBOX_LKP_TTL_ASM_STOCKINCPU_LANG_ID>
+
+  <DLGBOX_LKP_TTL_ASM_STOCKINNB_LANG_ID>
+    <ID>Lihat Data : Notebook / Laptop</ID>
+    <EN>Lookup Data : Notebook / Laptop</EN>
+  </DLGBOX_LKP_TTL_ASM_STOCKINNB_LANG_ID>
+
+  <DLGBOX_LKP_TTL_ASM_STOCKINSW_LANG_ID>
+    <ID>Lihat Data : Software</ID>
+    <EN>Lookup Data : Software</EN>
+  </DLGBOX_LKP_TTL_ASM_STOCKINSW_LANG_ID>
+
+  <DLGBOX_LKP_TTL_MST_DEPT_LANG_ID>
+    <ID>Lihat Data : Departemen</ID>
+    <EN>Lookup Data : Department</EN>
+  </DLGBOX_LKP_TTL_MST_DEPT_LANG_ID>
+  
+  <DLGBOX_LKP_TTL_MST_SAP_VENDOR_LANG_ID>
+    <ID>Lihat Data : Vendor (SAP)</ID>
+    <EN>Lookup Data : Vendor (SAP)</EN>
+  </DLGBOX_LKP_TTL_MST_SAP_VENDOR_LANG_ID>
+
+  <DLGBOX_LKP_TTL_MST_COUNTRY>
+    <ID>Lihat Data : Negara</ID>
+    <EN>Lookup Data : Country</EN>
+  </DLGBOX_LKP_TTL_MST_COUNTRY>
+
+  <DLGBOX_LKP_TTL_MST_CITY_LOCAL>
+    <ID>Lihat Data : Kota di Indonesia</ID>
+    <EN>Lookup Data : Local City</EN>
+  </DLGBOX_LKP_TTL_MST_CITY_LOCAL>
+
+  <DLGBOX_LKP_TTL_HRS_JOBTTLGRP>
+    <ID>Lihat Data : Kelompok Kerja</ID>
+    <EN>Lookup Data : Job Group</EN>
+  </DLGBOX_LKP_TTL_HRS_JOBTTLGRP>
+
+  <DLGBOX_LKP_TTL_HRS_JOBTTLSUBGRP>
+    <ID>Lihat Data : Sub Kelompok Kerja</ID>
+    <EN>Lookup Data : Job Sub Group</EN>
+  </DLGBOX_LKP_TTL_HRS_JOBTTLSUBGRP>
+
+  <DLGBOX_LKP_TTL_HRS_JOBTTL>
+    <ID>Lihat Data : Jenis Pekerjaan</ID>
+    <EN>Lookup Data : Job Title</EN>
+  </DLGBOX_LKP_TTL_HRS_JOBTTL>
+
+  <DLGBOX_LKP_TTL_HRS_AUTH_PERSON>
+    <ID>Lihat Data : Wewenang Personil</ID>
+    <EN>Lookup data : Authority</EN>
+  </DLGBOX_LKP_TTL_HRS_AUTH_PERSON>
+
+  <DLGBOX_LKP_TTL_HRS_EMPLOYEE>
+    <ID>Lihat Data : Karyawan</ID>
+    <EN>Lookup data : Employee</EN>
+  </DLGBOX_LKP_TTL_HRS_EMPLOYEE>
+
+  <DLGBOX_LST_TTL_ASM_ASSET_LANG_ID>
+    <ID>Daftar Data : Asset</ID>
+    <EN>List Data : Asset</EN>
+  </DLGBOX_LST_TTL_ASM_ASSET_LANG_ID>
+
+  <DLGBOX_LST_TTL_ASM_ASSET_SUMMARY_LANG_ID>
+    <ID>Rekap Data Aset Berdasarkan Status</ID>
+    <EN>Summary of Asset by Status</EN>
+  </DLGBOX_LST_TTL_ASM_ASSET_SUMMARY_LANG_ID>
+
+  <GRPBOX_TTL_HRS_JOBCLASS_LANG_ID>
+    <ID>Klasifikasi Pekerjaan</ID>
+    <EN>Job Classification</EN>
+  </GRPBOX_TTL_HRS_JOBCLASS_LANG_ID>
+
+  <VLDTN_DATE_FMT1>
+    <ID>Format tanggal salah</ID>
+    <EN>Invalid date format</EN>
+  </VLDTN_DATE_FMT1>
+
+  <VLDTN_DATE_FMT2>
+    <ID>Format tanggal salah, seharusnya : ::::TAG1::::</ID>
+    <EN>Invalid date format, please enter valid format : ::::TAG1::::</EN>
+  </VLDTN_DATE_FMT2>
+
+  <VLDTN_DATE_FMT3>
+    <ID>Format tanggal seharusnya : ::::TAG1::::</ID>
+    <EN>Please enter valid date format : ::::TAG1::::</EN>
+  </VLDTN_DATE_FMT3>
+
+  <HIST_ACT_DESC1_NEW>
+    <ID>Tambah data baru</ID>
+    <EN>Add new data</EN>
+  </HIST_ACT_DESC1_NEW>
+
+  <HIST_ACT_DESC1_UPD>
+    <ID>Rubah data</ID>
+    <EN>Update data</EN>
+  </HIST_ACT_DESC1_UPD>
+
+  <HIST_ACT_DESC1_DEL>
+    <ID>Hapus data</ID>
+    <EN>Delete data</EN>
+  </HIST_ACT_DESC1_DEL>
+
+  <LKP_HARDWARE_IT>
+    <ID>Perangkat Keras IT</ID>
+    <EN>Computer or IT Hardware</EN>
+  </LKP_HARDWARE_IT>
+
+  <LKP_SOFTWARE>
+    <ID>Perangkat Lunak</ID>
+    <EN>Software</EN>
+  </LKP_SOFTWARE>
+
+  <LKP_ID>
+    <ID>Kode</ID>
+    <EN>ID</EN>
+  </LKP_ID>
+
+  <LKP_DESC>
+    <ID>Deskripsi</ID>
+    <EN>Description</EN>
+  </LKP_DESC>
+
+  <FRM_CRUD_RSRC>
+    <ID>Formulir Entry Data Resource</ID>
+    <EN>Form Entry Data Resource</EN>
+  </FRM_CRUD_RSRC>
+
+  <FRM_CRUD_RSRC_AS_EMP_BIZACT_NEW>
+    <ID>Formulir Entry Data Karyawan Baru</ID>
+    <EN>Form Entry New Employee</EN>
+  </FRM_CRUD_RSRC_AS_EMP_BIZACT_NEW>
+
+  <FRM_CRUD_RSRC_AS_EMP_BIZACT_PROMOTION>
+    <ID>Formulir Entry Promosi Karyawan</ID>
+    <EN>Form Entry Employee Promotion</EN>
+  </FRM_CRUD_RSRC_AS_EMP_BIZACT_PROMOTION>
+
+  <FRM_CRUD_RSRC_AS_EMP_BIZACT_DEMOTION>
+    <ID>Formulir Entry Penurunan Status Karyawan</ID>
+    <EN>Form Employee Demotion</EN>
+  </FRM_CRUD_RSRC_AS_EMP_BIZACT_DEMOTION>
+
+  <FRM_CRUD_RSRC_AS_EMP_BIZACT_QUIT>
+    <ID>Formulir Entry Karyawan berhenti</ID>
+    <EN>Form Employee Inactive</EN>
+  </FRM_CRUD_RSRC_AS_EMP_BIZACT_QUIT>
+
+  <FRM_CRUD_RSRC_AS_EMP_BIZACT_REV_USR>
+    <ID>Formulir Revisi Data Karyawan</ID>
+    <EN>Form Employee Revision data</EN>
+  </FRM_CRUD_RSRC_AS_EMP_BIZACT_REV_USR>
+
+  <FRM_CRUD_RSRC_AS_EMP_BIZACT_REV_ADM>
+    <ID>Formulir Revisi Admin</ID>
+    <EN>Form Admin Revision</EN>
+  </FRM_CRUD_RSRC_AS_EMP_BIZACT_REV_ADM>
+
+  <FRM_HRS_EMP_JOBDESC>
+    <ID>Klasifikasi Pekerjaan</ID>
+    <EN>Job Classification</EN>
+  </FRM_HRS_EMP_JOBDESC>
+
+  <FRM_HRS_PRVLG_AUTH>
+    <ID>Personil Otorisasi</ID>
+    <EN>Authorization Person</EN>
+  </FRM_HRS_PRVLG_AUTH>
+
+  <FRM_HRS_PRVLG_PAAUTH>
+    <ID>Otorisasi PA</ID>
+    <EN>PA Authorization</EN>
+  </FRM_HRS_PRVLG_PAAUTH>
+
+  <FRM_HRS_TRN_PA>
+    <ID>Performance Appraisal</ID>
+    <EN>Performance Appraisal</EN>
+  </FRM_HRS_TRN_PA>
+
+  <FRM_HRS_TRN_PAEVL>
+    <ID>Performance Appraisal - Evaluation</ID>
+    <EN>Performance Appraisal - Evaluation</EN>
+  </FRM_HRS_TRN_PAEVL>
+
+  <FRM_HRS_TRN_PAAPV>
+    <ID>Performance Appraisal - Approval</ID>
+    <EN>Performance Appraisal - Approval</EN>
+  </FRM_HRS_TRN_PAAPV>
+
+  <FRM_HRS_INVALID_CONFIG_TITLE>
+    <ID>Konfigurasi Tidak Lengkap</ID>
+    <EN>Invalid Configuration</EN>
+  </FRM_HRS_INVALID_CONFIG_TITLE>
+
+  <FRM_HRS_INVALID_CONFIG_CONTENT>
+    <ID>Konfigurasi untuk Jenis pekerjaan belum diterapkan, silahkan hubungi HRD untuk dilakukan konfigurasi. </ID>
+    <EN>Invalid Configuration, please setup job title configuration</EN>
+  </FRM_HRS_INVALID_CONFIG_CONTENT>
+
+  <FRM_CRUD_ASM_STOCKIN>
+    <ID>Formulir Entry Data Stock Masuk</ID>
+    <EN>Form Entry Data Stock In</EN>
+  </FRM_CRUD_ASM_STOCKIN>
+
+  <FRM_CRUD_ASM_STOCKOUT>
+    <ID>Formulir Entry Data Stock Keluar</ID>
+    <EN>Form Entry Data Stock Out</EN>
+  </FRM_CRUD_ASM_STOCKOUT>
+
+  <FRM_CRUD_ASM_STOCKIN_CPU>
+    <ID>Formulir Entry Data CPU</ID>
+    <EN>Form Entry Data CPU</EN>
+  </FRM_CRUD_ASM_STOCKIN_CPU>
+
+  <FRM_CRUD_ASM_STOCKIN_NB>
+    <ID>Formulir Entry Data Notebook / Laptop</ID>
+    <EN>Form Entry Data Notebook / Laptop</EN>
+  </FRM_CRUD_ASM_STOCKIN_NB>
+
+  <FRM_CRUD_ASM_STOCKIN_SW>
+    <ID>Formulir Entry Data Software</ID>
+    <EN>Form Entry Data Software</EN>
+  </FRM_CRUD_ASM_STOCKIN_SW>
+
+  <FRM_CRUD_AC_CHANGE_PASSWORD>
+    <ID>Ganti Password</ID>
+    <EN>Change Password</EN>
+  </FRM_CRUD_AC_CHANGE_PASSWORD>
+
+  <RPT_ASM_ASSET>
+    <ID>Laporan Data Asset</ID>
+    <EN>Asset Report</EN>
+  </RPT_ASM_ASSET>
+
+  <MNU_QLC_MAIN>
+    <ID>Utama</ID>
+    <EN>Main</EN>
+  </MNU_QLC_MAIN>
+
+  <MNU_QLC_HOME>
+    <ID>Halaman Utama</ID>
+    <EN>Home</EN>
+  </MNU_QLC_HOME>
+
+  <MNU_QLC_LOGOUT>
+    <ID>Logout</ID>
+    <EN>Logout</EN>
+  </MNU_QLC_LOGOUT>
+
+  <MNU_QLC_CHANGE_PSWD>
+    <ID>Ganti Password</ID>
+    <EN>Change Password</EN>
+  </MNU_QLC_CHANGE_PSWD>
+
+  <MNU_QLC_ASST_MGNT>
+    <ID>Pendataan Aset</ID>
+    <EN>Asset Management</EN>
+  </MNU_QLC_ASST_MGNT>
+
+  <MNU_QLC_ENT_STOCKIN>
+    <ID>Entry Data Barang Masuk</ID>
+    <EN>Product Item Entry</EN>
+  </MNU_QLC_ENT_STOCKIN>
+
+  <MNU_QLC_ENT_STOCKOUT>
+    <ID>Entry Data Aset</ID>
+    <EN>Asset Entry</EN>
+  </MNU_QLC_ENT_STOCKOUT>
+
+  <MNU_QLC_RPT>
+    <ID>Laporan</ID>
+    <EN>Reporting</EN>
+  </MNU_QLC_RPT>
+
+  <MNU_QLC_RPT_ASST>
+    <ID>Laporan Daftar Aset</ID>
+    <EN>Asset List Report</EN>
+  </MNU_QLC_RPT_ASST>
+
+  <MNU_ASMIT_MAIN>
+    <ID>Utama</ID>
+    <EN>Main</EN>
+  </MNU_ASMIT_MAIN>
+
+  <MNU_ASMIT_HOME>
+    <ID>Halaman Utama</ID>
+    <EN>Home</EN>
+  </MNU_ASMIT_HOME>
+
+  <MNU_ASMIT_LOGOUT>
+    <ID>Logout</ID>
+    <EN>Logout</EN>
+  </MNU_ASMIT_LOGOUT>
+
+  <MNU_ASMIT_ASST_MGNT>
+    <ID>Pendataan Aset</ID>
+    <EN>Asset Management</EN>
+  </MNU_ASMIT_ASST_MGNT>
+
+  <MNU_ASMIT_ENT_STOCKIN>
+    <ID>Entry Data Barang Masuk</ID>
+    <EN>Product Item Entry</EN>
+  </MNU_ASMIT_ENT_STOCKIN>
+
+  <MNU_ASMIT_ENT_STOCKOUT>
+    <ID>Entry Data Aset</ID>
+    <EN>Asset Entry</EN>
+  </MNU_ASMIT_ENT_STOCKOUT>
+
+  <MNU_ASMIT_RPT>
+    <ID>Laporan</ID>
+    <EN>Reporting</EN>
+  </MNU_ASMIT_RPT>
+
+  <MNU_ASMIT_RPT_ASST>
+    <ID>Laporan Daftar Aset</ID>
+    <EN>Asset List Report</EN>
+  </MNU_ASMIT_RPT_ASST>
+
+  <MNU_HRIS_ENT_EMP>
+    <ID>Entry Karyawan</ID>
+    <EN>Employee Entry</EN>
+  </MNU_HRIS_ENT_EMP>
+
+  <MNU_HRIS_ENT_EMP_NEW>
+    <ID>Karyawan Baru</ID>
+    <EN>New Employee</EN>
+  </MNU_HRIS_ENT_EMP_NEW>
+
+  <MNU_HRIS_ENT_EMP_PROMOTION>
+    <ID>Promosi</ID>
+    <EN>Promotion</EN>
+  </MNU_HRIS_ENT_EMP_PROMOTION>
+
+  <MNU_HRIS_ENT_EMP_QUIT>
+    <ID>Berhenti</ID>
+    <EN>Inactivation</EN>
+  </MNU_HRIS_ENT_EMP_QUIT>
+
+  <MNU_HRIS_ENT_EMP_REV_USER>
+    <ID>Revisi</ID>
+    <EN>Revision</EN>
+  </MNU_HRIS_ENT_EMP_REV_USER>
+
+  <MNU_HRIS_ENT_EMP_REV_ADMIN>
+    <ID>Revisi Admin</ID>
+    <EN>Admin Revision</EN>
+  </MNU_HRIS_ENT_EMP_REV_ADMIN>
+
+  <MNU_HRIS_RPT_EMP>
+    <ID>Laporan Karyawan</ID>
+    <EN>Employee Report</EN>
+  </MNU_HRIS_RPT_EMP>
+
+  <KOMISARIS>
+    <ID>KOMISARIS</ID>
+    <EN>KOMISARIS</EN>
+  </KOMISARIS>
+
+  <DIREKSI>
+    <ID>DIREKSI</ID>
+    <EN>DIREKSI</EN>
+  </DIREKSI>
+
+  <DEPARTEMENT_H._ACCENT_ATAU_DESIGN_DAN_BUILD>
+    <ID>DEPARTEMENT H. ACCENT / DESIGN DAN BUILD</ID>
+    <EN>DEPARTEMENT H. ACCENT / DESIGN DAN BUILD</EN>
+  </DEPARTEMENT_H._ACCENT_ATAU_DESIGN_DAN_BUILD>
+
+  <DEPARTEMENT_H._ACCENT_ATAU_RETAIL>
+    <ID>DEPARTEMENT H. ACCENT / RETAIL</ID>
+    <EN>DEPARTEMENT H. ACCENT / RETAIL</EN>
+  </DEPARTEMENT_H._ACCENT_ATAU_RETAIL>
+
+  <DEPARTEMENT_MARKETING>
+    <ID>DEPARTEMENT MARKETING</ID>
+    <EN>DEPARTEMENT MARKETING</EN>
+  </DEPARTEMENT_MARKETING>
+
+  <DEPARTEMENT_ADM._UMUM_DAN_PERSONALIA>
+    <ID>DEPARTEMENT ADM. UMUM DAN PERSONALIA</ID>
+    <EN>DEPARTEMENT ADM. UMUM DAN PERSONALIA</EN>
+  </DEPARTEMENT_ADM._UMUM_DAN_PERSONALIA>
+
+  <DEPARTEMENT_DIREKTORAT_KEUANGAN__CONTROLLER>
+    <ID>DEPARTEMENT DIREKTORAT KEUANGAN : CONTROLLER</ID>
+    <EN>DEPARTEMENT DIREKTORAT KEUANGAN : CONTROLLER</EN>
+  </DEPARTEMENT_DIREKTORAT_KEUANGAN__CONTROLLER>
+
+  <DEPARTEMENT_TATA_KEUANGAN_DAN_ACCOUNTING>
+    <ID>DEPARTEMENT TATA KEUANGAN DAN ACCOUNTING</ID>
+    <EN>DEPARTEMENT TATA KEUANGAN DAN ACCOUNTING</EN>
+  </DEPARTEMENT_TATA_KEUANGAN_DAN_ACCOUNTING>
+
+  <DEPARTEMENT_LEGAL_CORPORATE>
+    <ID>DEPARTEMENT LEGAL CORPORATE</ID>
+    <EN>DEPARTEMENT LEGAL CORPORATE</EN>
+  </DEPARTEMENT_LEGAL_CORPORATE>
+
+  <DEPARTEMENT_PROJECT_SUPPORT__COST_CONTROLL__LOGISTIK__ESTIMASI>
+    <ID>DEPARTEMENT PROJECT SUPPORT : COST CONTROLL ; LOGISTIK ; ESTIMASI</ID>
+    <EN>DEPARTEMENT PROJECT SUPPORT : COST CONTROLL ; LOGISTIK ; ESTIMASI</EN>
+  </DEPARTEMENT_PROJECT_SUPPORT__COST_CONTROLL__LOGISTIK__ESTIMASI>
+
+  <DEPARTEMENT__I_T_SUPPORT>
+    <ID>DEPARTEMENT : I T SUPPORT</ID>
+    <EN>DEPARTEMENT : I T SUPPORT</EN>
+  </DEPARTEMENT__I_T_SUPPORT>
+
+  <DEPARTEMENT_QUALITY_ASSURANCE>
+    <ID>DEPARTEMENT QUALITY ASSURANCE</ID>
+    <EN>DEPARTEMENT QUALITY ASSURANCE</EN>
+  </DEPARTEMENT_QUALITY_ASSURANCE>
+
+  <DEPARTEMENT_PELAKSANAAN_DAN_M_E_P>
+    <ID>DEPARTEMENT PELAKSANAAN DAN M E P</ID>
+    <EN>DEPARTEMENT PELAKSANAAN DAN M E P</EN>
+  </DEPARTEMENT_PELAKSANAAN_DAN_M_E_P>
+
+  <DEPARTEMENT_PERENCANAAN_ARSITEKTUR_DAN_LANSCAPE>
+    <ID>DEPARTEMENT PERENCANAAN ARSITEKTUR DAN LANSCAPE</ID>
+    <EN>DEPARTEMENT PERENCANAAN ARSITEKTUR DAN LANSCAPE</EN>
+  </DEPARTEMENT_PERENCANAAN_ARSITEKTUR_DAN_LANSCAPE>
+
+  <LANDSCAPE>
+    <ID>LANDSCAPE</ID>
+    <EN>LANDSCAPE</EN>
+  </LANDSCAPE>
+
+  <DEPARTEMENT_PERENCANAAN_INTERIOR>
+    <ID>DEPARTEMENT PERENCANAAN INTERIOR</ID>
+    <EN>DEPARTEMENT PERENCANAAN INTERIOR</EN>
+  </DEPARTEMENT_PERENCANAAN_INTERIOR>
+
+  <DEPARTEMENT_PERENCANAAN_LIGHTING>
+    <ID>DEPARTEMENT PERENCANAAN LIGHTING</ID>
+    <EN>DEPARTEMENT PERENCANAAN LIGHTING</EN>
+  </DEPARTEMENT_PERENCANAAN_LIGHTING>
+
+  <GCH_BALI>
+    <ID>GCH BALI</ID>
+    <EN>GCH BALI</EN>
+  </GCH_BALI>
+
+  <DEPARTEMEN_UMUM_NON_STRUKTURAL>
+    <ID>DEPARTEMEN UMUM NON STRUKTURAL</ID>
+    <EN>DEPARTEMEN UMUM NON STRUKTURAL</EN>
+  </DEPARTEMEN_UMUM_NON_STRUKTURAL>
+
+  <DEPARTEMENT_ARTWORK>
+    <ID>DEPARTEMENT ARTWORK</ID>
+    <EN>DEPARTEMENT ARTWORK</EN>
+  </DEPARTEMENT_ARTWORK>
+
+  <DEPARTEMENT_ARTWORK_PRODUKSI>
+    <ID>DEPARTEMENT ARTWORK (PRODUKSI)</ID>
+    <EN>DEPARTEMENT ARTWORK (PRODUKSI)</EN>
+  </DEPARTEMENT_ARTWORK_PRODUKSI>
+
+  <PROD_TYP_AS_SW>
+    <ID>Jenis Software</ID>
+    <EN>Software Type</EN>
+  </PROD_TYP_AS_SW>
+
+  <RSRC_USER_NM>
+    <ID>User</ID>
+    <EN>user</EN>
+  </RSRC_USER_NM>
+
+  <T3D>
+    <ID>3D</ID>
+    <EN>3D</EN>
+  </T3D>
+
+  <T3D_ARTIST>
+    <ID>3D Artist</ID>
+    <EN>3D Artist</EN>
+  </T3D_ARTIST>
+
+  <ADM.UMUM_DAN_KASIR>
+    <ID>Adm.Umum dan Kasir</ID>
+    <EN>Adm.Umum dan Kasir</EN>
+  </ADM.UMUM_DAN_KASIR>
+
+  <ADMINISTRASI>
+    <ID>Administrasi</ID>
+    <EN>Administrasi</EN>
+  </ADMINISTRASI>
+
+  <ADMINISTRASI_HRD>
+    <ID>Administrasi HRD</ID>
+    <EN>Administrasi HRD</EN>
+  </ADMINISTRASI_HRD>
+
+  <ADMINISTRASI_PAJAK>
+    <ID>Administrasi Pajak</ID>
+    <EN>Administrasi Pajak</EN>
+  </ADMINISTRASI_PAJAK>
+
+  <ADMINISTRASI_PERPUSTAKAAN>
+    <ID>Administrasi Perpustakaan</ID>
+    <EN>Administrasi Perpustakaan</EN>
+  </ADMINISTRASI_PERPUSTAKAAN>
+
+  <ADMINISTRASI_UMUM>
+    <ID>Administrasi Umum</ID>
+    <EN>Administrasi Umum</EN>
+  </ADMINISTRASI_UMUM>
+
+  <AE>
+    <ID>AE</ID>
+    <EN>AE</EN>
+  </AE>
+
+  <ASS.PERENCANAAN>
+    <ID>Ass.Perencanaan</ID>
+    <EN>Ass.Perencanaan</EN>
+  </ASS.PERENCANAAN>
+
+  <COST_CONTROLL>
+    <ID>Cost Controll</ID>
+    <EN>Cost Controll</EN>
+  </COST_CONTROLL>
+
+  <DESAIN_PRODUCT>
+    <ID>Desain Product</ID>
+    <EN>Desain Product</EN>
+  </DESAIN_PRODUCT>
+
+  <DESAINER>
+    <ID>Desainer</ID>
+    <EN>Desainer</EN>
+  </DESAINER>
+
+  <DESAINER_INTERIOR>
+    <ID>Desainer Interior</ID>
+    <EN>Desainer Interior</EN>
+  </DESAINER_INTERIOR>
+
+  <DESAINER_MADYA>
+    <ID>Desainer Madya</ID>
+    <EN>Desainer Madya</EN>
+  </DESAINER_MADYA>
+
+  <DESAINER_PRATAMA>
+    <ID>Desainer Pratama</ID>
+    <EN>Desainer Pratama</EN>
+  </DESAINER_PRATAMA>
+
+  <DESAINER_PRODUCT>
+    <ID>Desainer Product</ID>
+    <EN>Desainer Product</EN>
+  </DESAINER_PRODUCT>
+
+  <DESAINER_UTAMA>
+    <ID>Desainer Utama</ID>
+    <EN>Desainer Utama</EN>
+  </DESAINER_UTAMA>
+
+  <DETAIL_DAN_SPEC.CTRL>
+    <ID>Detail dan Spec.Ctrl</ID>
+    <EN>Detail dan Spec.Ctrl</EN>
+  </DETAIL_DAN_SPEC.CTRL>
+
+  <DIR.OPERASIONAL>
+    <ID>Dir.Operasional</ID>
+    <EN>Dir.Operasional</EN>
+  </DIR.OPERASIONAL>
+
+  <DIREKTUR_DESAIN>
+    <ID>Direktur Desain</ID>
+    <EN>Direktur Desain</EN>
+  </DIREKTUR_DESAIN>
+
+  <DIREKTUR_UTAMA>
+    <ID>Direktur Utama</ID>
+    <EN>Direktur Utama</EN>
+  </DIREKTUR_UTAMA>
+
+  <DRAFTER>
+    <ID>Drafter</ID>
+    <EN>Drafter</EN>
+  </DRAFTER>
+
+  <DRAFTER_KEPALA_GROUP>
+    <ID>Drafter (kepala Group)</ID>
+    <EN>Drafter (kepala Group)</EN>
+  </DRAFTER_KEPALA_GROUP>
+
+  <DRAFTER_PENUNJANG>
+    <ID>Drafter penunjang</ID>
+    <EN>Drafter penunjang</EN>
+  </DRAFTER_PENUNJANG>
+
+  <DRAWING_CONTROLL>
+    <ID>Drawing Controll</ID>
+    <EN>Drawing Controll</EN>
+  </DRAWING_CONTROLL>
+
+  <DRIVER>
+    <ID>Driver</ID>
+    <EN>Driver</EN>
+  </DRIVER>
+
+  <ESTIMASI>
+    <ID>Estimasi</ID>
+    <EN>Estimasi</EN>
+  </ESTIMASI>
+
+  <FINANCIAL_CONTROLLER>
+    <ID>Financial Controller</ID>
+    <EN>Financial Controller</EN>
+  </FINANCIAL_CONTROLLER>
+
+  <FOUNDER>
+    <ID>Founder</ID>
+    <EN>Founder</EN>
+  </FOUNDER>
+
+  <INSTALLER>
+    <ID>Installer</ID>
+    <EN>Installer</EN>
+  </INSTALLER>
+
+  <INTERNAL_AUDIT>
+    <ID>Internal Audit</ID>
+    <EN>Internal Audit</EN>
+  </INTERNAL_AUDIT>
+
+  <ISO_OFFICER>
+    <ID>ISO Officer</ID>
+    <EN>ISO Officer</EN>
+  </ISO_OFFICER>
+
+  <IT_PROGRAMMER>
+    <ID>IT Programmer</ID>
+    <EN>IT Programmer</EN>
+  </IT_PROGRAMMER>
+
+  <IT_SUPPORT>
+    <ID>IT Support</ID>
+    <EN>IT Support</EN>
+  </IT_SUPPORT>
+
+  <KABAG.UMUM>
+    <ID>Kabag.Umum</ID>
+    <EN>Kabag.Umum</EN>
+  </KABAG.UMUM>
+
+  <KADEP>
+    <ID>Kadep</ID>
+    <EN>Kadep</EN>
+  </KADEP>
+
+  <KASIR>
+    <ID>Kasir</ID>
+    <EN>Kasir</EN>
+  </KASIR>
+
+  <KEPALA_DEPARTEMENT>
+    <ID>Kepala Departement</ID>
+    <EN>Kepala Departement</EN>
+  </KEPALA_DEPARTEMENT>
+
+  <KEPALA_DIVISI>
+    <ID>Kepala Divisi</ID>
+    <EN>Kepala Divisi</EN>
+  </KEPALA_DIVISI>
+
+  <KEPALA_KEUANGAN>
+    <ID>Kepala keuangan</ID>
+    <EN>Kepala keuangan</EN>
+  </KEPALA_KEUANGAN>
+
+  <KEPALA_PRODUKSI>
+    <ID>Kepala Produksi</ID>
+    <EN>Kepala Produksi</EN>
+  </KEPALA_PRODUKSI>
+
+  <KOMISARIS>
+    <ID>Komisaris</ID>
+    <EN>Komisaris</EN>
+  </KOMISARIS>
+
+  <KOORD.PROJECT_CONTROL>
+    <ID>Koord.Project Control</ID>
+    <EN>Koord.Project Control</EN>
+  </KOORD.PROJECT_CONTROL>
+
+  <KOORD.SUPPORT>
+    <ID>Koord.Support</ID>
+    <EN>Koord.Support</EN>
+  </KOORD.SUPPORT>
+
+  <KOORD.TEAM_DESAIN>
+    <ID>Koord.Team Desain</ID>
+    <EN>Koord.Team Desain</EN>
+  </KOORD.TEAM_DESAIN>
+
+  <KOORDINATOR>
+    <ID>Koordinator</ID>
+    <EN>Koordinator</EN>
+  </KOORDINATOR>
+
+  <KOORDINATOR_ESTIMASI>
+    <ID>Koordinator Estimasi</ID>
+    <EN>Koordinator Estimasi</EN>
+  </KOORDINATOR_ESTIMASI>
+
+  <KOORDINATOR_LOGISTIK>
+    <ID>Koordinator Logistik</ID>
+    <EN>Koordinator Logistik</EN>
+  </KOORDINATOR_LOGISTIK>
+
+  <KOORDINATOR_PRINCIPAL>
+    <ID>Koordinator Principal</ID>
+    <EN>Koordinator Principal</EN>
+  </KOORDINATOR_PRINCIPAL>
+
+  <KURIR>
+    <ID>Kurir</ID>
+    <EN>Kurir</EN>
+  </KURIR>
+
+  <LEGAL_OFFICER>
+    <ID>Legal Officer</ID>
+    <EN>Legal Officer</EN>
+  </LEGAL_OFFICER>
+
+  <LOGISTIK>
+    <ID>Logistik</ID>
+    <EN>Logistik</EN>
+  </LOGISTIK>
+
+  <MAINTENANCE>
+    <ID>Maintenance</ID>
+    <EN>Maintenance</EN>
+  </MAINTENANCE>
+
+  <MARKETING_OFFICER>
+    <ID>Marketing Officer</ID>
+    <EN>Marketing Officer</EN>
+  </MARKETING_OFFICER>
+
+  <MARKETING_PELAKSANAAN>
+    <ID>Marketing Pelaksanaan</ID>
+    <EN>Marketing Pelaksanaan</EN>
+  </MARKETING_PELAKSANAAN>
+
+  <MEKANIK>
+    <ID>Mekanik</ID>
+    <EN>Mekanik</EN>
+  </MEKANIK>
+
+  <OB>
+    <ID>OB</ID>
+    <EN>OB</EN>
+  </OB>
+
+  <OBATAUGUDANG>
+    <ID>OB/Gudang</ID>
+    <EN>OB/Gudang</EN>
+  </OBATAUGUDANG>
+
+  <PAJAK>
+    <ID>Pajak</ID>
+    <EN>Pajak</EN>
+  </PAJAK>
+
+  <PC>
+    <ID>PC</ID>
+    <EN>PC</EN>
+  </PC>
+
+  <PELAKSANA>
+    <ID>Pelaksana</ID>
+    <EN>Pelaksana</EN>
+  </PELAKSANA>
+
+  <PELAKSANAATAUMEP>
+    <ID>Pelaksana/MEP</ID>
+    <EN>Pelaksana/MEP</EN>
+  </PELAKSANAATAUMEP>
+
+  <PENAGIHAN>
+    <ID>Penagihan</ID>
+    <EN>Penagihan</EN>
+  </PENAGIHAN>
+
+  <PENUNJANG>
+    <ID>Penunjang</ID>
+    <EN>Penunjang</EN>
+  </PENUNJANG>
+
+  <PM>
+    <ID>PM</ID>
+    <EN>PM</EN>
+  </PM>
+
+  <PRINCIPAL_DESAINER>
+    <ID>Principal Desainer</ID>
+    <EN>Principal Desainer</EN>
+  </PRINCIPAL_DESAINER>
+
+  <PRODUKSI>
+    <ID>Produksi</ID>
+    <EN>Produksi</EN>
+  </PRODUKSI>
+
+  <PROJECT_COST_CONTROLL>
+    <ID>Project Cost Controll</ID>
+    <EN>Project Cost Controll</EN>
+  </PROJECT_COST_CONTROLL>
+
+  <PROJECT_DESAINER>
+    <ID>Project Desainer</ID>
+    <EN>Project Desainer</EN>
+  </PROJECT_DESAINER>
+
+  <PROJECT_KOORDINATOR>
+    <ID>Project Koordinator</ID>
+    <EN>Project Koordinator</EN>
+  </PROJECT_KOORDINATOR>
+
+  <PROJECT_MANAGER>
+    <ID>Project Manager</ID>
+    <EN>Project Manager</EN>
+  </PROJECT_MANAGER>
+
+  <PROJECT_PURCHASING>
+    <ID>Project Purchasing</ID>
+    <EN>Project Purchasing</EN>
+  </PROJECT_PURCHASING>
+
+  <QUALITY_ASSURANCE>
+    <ID>Quality Assurance</ID>
+    <EN>Quality Assurance</EN>
+  </QUALITY_ASSURANCE>
+
+  <QUALITY_CONTROL>
+    <ID>Quality Control</ID>
+    <EN>Quality Control</EN>
+  </QUALITY_CONTROL>
+
+  <RECEPTIONIST>
+    <ID>Receptionist</ID>
+    <EN>Receptionist</EN>
+  </RECEPTIONIST>
+
+  <SECURITY>
+    <ID>Security</ID>
+    <EN>Security</EN>
+  </SECURITY>
+
+  <SEKRETARIAT>
+    <ID>Sekretariat</ID>
+    <EN>Sekretariat</EN>
+  </SEKRETARIAT>
+
+  <SENIOR_CONTROLLER>
+    <ID>Senior Controller</ID>
+    <EN>Senior Controller</EN>
+  </SENIOR_CONTROLLER>
+
+  <SPEC.W_DAN_SCHEDULLING>
+    <ID>Spec.W dan Schedulling</ID>
+    <EN>Spec.W dan Schedulling</EN>
+  </SPEC.W_DAN_SCHEDULLING>
+
+  <STAFF_ACCOUNTING>
+    <ID>Staff accounting</ID>
+    <EN>Staff accounting</EN>
+  </STAFF_ACCOUNTING>
+
+  <STAFF_GUDANG>
+    <ID>Staff gudang</ID>
+    <EN>Staff gudang</EN>
+  </STAFF_GUDANG>
+
+  <STAFF_KEUANGAN>
+    <ID>Staff keuangan</ID>
+    <EN>Staff keuangan</EN>
+  </STAFF_KEUANGAN>
+
+  <STAFFATAUPELAKSANA>
+    <ID>Staff/Pelaksana</ID>
+    <EN>Staff/Pelaksana</EN>
+  </STAFFATAUPELAKSANA>
+
+  <SUPERVISOR_ACCOUNTING>
+    <ID>Supervisor Accounting</ID>
+    <EN>Supervisor Accounting</EN>
+  </SUPERVISOR_ACCOUNTING>
+
+  <SUPERVISOR_KEUANGAN>
+    <ID>Supervisor Keuangan</ID>
+    <EN>Supervisor Keuangan</EN>
+  </SUPERVISOR_KEUANGAN>
+
+  <TUKANG_KEBUN>
+    <ID>Tukang Kebun</ID>
+    <EN>Tukang Kebun</EN>
+  </TUKANG_KEBUN>
+
+</XML_LANGUAGE>

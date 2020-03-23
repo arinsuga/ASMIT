@@ -1,0 +1,101 @@
+﻿/*
+================================================
+CSS Reset : By Eric Mayer
+================================================
+*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	background: transparent;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+:focus {
+	outline: 0;
+}
+ins {
+	text-decoration: none;
+}
+del {
+	text-decoration: line-through;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+html {
+	height: 100%;
+}
+body {
+	font: 12px/18px Arial, Tahoma, Verdana, sans-serif;
+	height: 100%;
+}
+a {
+	color: blue;
+	outline: none;
+	text-decoration: underline;
+}
+a:hover {
+	text-decoration: none;
+}
+p {
+	margin: 0 0 18px
+}
+img {
+	border: none;
+}
+input {
+	vertical-align: middle;
+}
+
+/*
+================================================
+CSS Layout
+================================================
+*/
+#Page {
+    height: 568px;
+    background-color:#FFFFFF;
+}
+#PageHeader{
+    background-color: #FFFFFF;
+    background: url("PageHeader.png") repeat scroll 0 0 #FFFFFF;
+    height: 120px;
+}
+#PageNavigation {
+/*    background-color: #83B0EC;*/
+    background-color:#FFFFFF;
+    float: left;
+    min-width:200px;
+    width: 200px;
+    min-height: 428px;
+    height: 428px;
+    overflow-y: scroll;
+}
+#PageContent {
+    background-color: #FFFFFF;
+/*    background-color: #FBF0CD;*/
+    min-width:800px;
+    margin-left: 200px;
+    min-height: 428px;
+    height: 428px;
+    overflow-y: scroll;
+}
+#PageFooter {
+}

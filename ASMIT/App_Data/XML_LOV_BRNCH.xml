@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XML_LOV>
+
+  <XML_LOV_DATA>
+    <LOV_RUID>LOV_BRNCH_HQ</LOV_RUID>
+    <LOV_ID>LOV_BRNCH_HQ</LOV_ID>
+    <LANG_ID>LOV_BRNCH_HQ</LANG_ID>
+    <ID></ID>
+    <EN></EN>
+  </XML_LOV_DATA>
+
+  <XML_LOV_DATA>
+    <LOV_RUID>LOV_BRNCH_001</LOV_RUID>
+    <LOV_ID>LOV_BRNCH_001</LOV_ID>
+    <LANG_ID>LOV_BRNCH_001</LANG_ID>
+    <ID></ID>
+    <EN></EN>
+  </XML_LOV_DATA>
+
+</XML_LOV>

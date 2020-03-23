@@ -1,0 +1,255 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MainASM.master.cs" Inherits="HDPortal.APP_ASM.MainASM" %>
+<%@ Register TagPrefix="ctr" TagName="MyUserControl" Src="frmNavigation.ascx" %>
+
+<!doctype html>
+
+<html class="no-js">
+<head  id="Head1" runat="server">
+    <meta charset="UTF-8">
+    <title>
+        <asp:ContentPlaceHolder ID="TitleHolder" runat="server" />
+    </title>
+    <!--IE Compatibility modes-->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!--Mobile first-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!--jQuery 2.1.1 (Fake) -->
+    <script src="../Scripts/jQuery.js" type="text/javascript"></script>
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="../Contents/css/bootstrap.min.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="../Contents/font-awesome-4.1.0/css/font-awesome.min.css">
+    <!-- Metis core stylesheet -->
+    <link rel="stylesheet" href="../Contents/css/main.min.css">
+    <!-- Metis Theme stylesheet -->
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="../Scripts/html5shiv.js"></script>
+        <script src="../Scripts/respond.min.js"></script>
+        <![endif]-->
+    <!--For Development Only. Not required -->
+    <script>
+        less = {
+            env: "development",
+            relativeUrls: false,
+            rootpath: "../assets/"
+        };
+    </script>
+    <link rel="stylesheet" href="../Contents/css/style-switcher.css">
+    <link rel="stylesheet/less" type="text/css" href="../Contents/less/theme.less">
+    <script src="../Scripts/less-1.7.3.min.js"></script>
+    <!--Modernizr 2.8.2-->
+    <script src="../Scripts/modernizr.min.js"></script>
+
+    <!--Content jQueryUI -->
+    <link href="../Contents/jQueryUI/jquery-ui.min.css" rel="stylesheet" type="text/css" />
+    <!--Content jQueryGrid -->
+    <link href="../Contents/jQueryGRD_DataTable/jquery.dataTables.css" rel="stylesheet" type="text/css" />
+    <link href="../Contents/jQueryGRD_DataTable/TableTools_JUI.css" rel="stylesheet" type="text/css" />
+    <link href="../Contents/jQueryGRD_DataTable/TableTools.css" rel="stylesheet" type="text/css" />
+    <!--Standard CSS -->
+    <link href="../Contents/APP_ASM/MasterLayoutstyle.css" rel="stylesheet" type="text/css" />
+    <!--Content ASM -->
+    <link href="../Contents/APP_ASM/APPStylesheet.css" rel="stylesheet" type="text/css" />
+    
+    <script type="text/javascript">
+        //Variable Initialize
+        var vssnAppDefDateFormatShort = '<%= Session["AppDefDateFormatShort"] %>';
+        var vssnAppDefDateFormatLong = '<%= Session["AppDefDateFormatLong"] %>';
+        var vssnAppDef1000Separator = '<%= Session["AppDef1000Separator"] %>';
+        var vssnAppDefDecimalSign = '<%= Session["AppDefDecimalSign"] %>';
+        var vssnAppDefDecimalDigit = '<%= Session["AppDefDecimalDigit"] %>';
+        var vssnAppDefCurrencySign = '<%= Session["AppDefCurrencySign"] %>';
+        var vssnAppDefLanguage = '<%= Session["AppDefLanguage"] %>';
+        var vssnAppDefDateInputMaskShort = '<%= Session["AppDefDateInputMaskShort"] %>';
+        var WSUrl = '<%=ResolveUrl("~/WebServices")%>'
+        var sSwfPath = "../Contents/jQueryGRD_DataTable/swf/copy_csv_xls_pdf.swf";
+        var gsMandatoryMsg = "<%=HDPortal.Helper.clsMessages.msgInformation.msgInformation_Mandatory() %>";
+        var gsDataExistMsg = "<%=HDPortal.Helper.clsMessages.msgInformation.msgInformation_DataExist() %>";
+        var gsDataInUseMsg = "<%=HDPortal.Helper.clsMessages.msgInformation.msgInformation_DataInUse() %>";
+        var gsMandatoryCheckMsg = "<%=HDPortal.Helper.clsMessages.msgInformation.msgInformation_MandatoryCheck() %>";
+        var gsRedundancyCheckMsg = "<%=HDPortal.Helper.clsMessages.msgInformation.msgInformation_RedundancyCheck() %>";
+        var gsInvalidEntryMsg = "<%=HDPortal.Helper.clsMessages.msgInformation.msgInformation_InvalidEntry() %>";
+        /*
+        ====================================================
+        Global Variable for Validation
+        ====================================================
+        */
+        var gvReturn = "N";
+        
+    </script>
+</head>
+<body>
+
+<%HDPortal.Helper.clsSecurity.isValidSessionASMIT(); %>
+
+    <div class="bg-dark dk" id="wrap">
+      <div id="top">
+        <!-- .navbar -->
+        <nav class="navbar navbar-inverse navbar-static-top">
+          <div class="container-fluid">
+
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <header class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span> 
+                <span class="icon-bar"></span> 
+                <span class="icon-bar"></span> 
+                <span class="icon-bar"></span> 
+              </button>
+              <a href="index.html" class="navbar-brand">
+                <img style="height:42px; width:121px;" src="../Contents/Company_Logo_White.png"  alt=""/>
+              </a>
+              
+            </header>
+            <div class="topnav">
+              <div class="btn-group">
+                <a data-placement="bottom" data-original-title="Fullscreen" data-toggle="tooltip" class="btn btn-default btn-sm" id="toggleFullScreen">
+                  <i class="glyphicon glyphicon-fullscreen"></i>
+                </a> 
+              </div>
+              <div class="btn-group">
+                <a href="frmMain.aspx" data-toggle="tooltip" data-original-title="Halaman Utama" data-placement="bottom" class="btn btn-success btn-sm">
+                  <i class="fa fa-home"></i>
+                </a> 
+              </div>
+              <div class="btn-group">
+                <a href="../DefaultLoginASMIT.aspx" data-toggle="tooltip" data-original-title="Logout" data-placement="bottom" class="btn btn-metis-1 btn-sm">
+                  <i class="fa fa-power-off"></i>
+                </a> 
+              </div>
+              <div class="btn-group">
+                <a href="../DefaultLoginASMITChangePassword.aspx" data-toggle="tooltip" data-original-title="Ganti Password" data-placement="bottom" class="btn btn-warning btn-sm">
+                  <i class="fa fa-key"></i>
+                </a> 
+              </div>
+
+              <div class="btn-group">
+                <a data-placement="bottom" data-original-title="Show / Hide Left" data-toggle="tooltip" class="btn btn-primary btn-sm toggle-left" id="menu-toggle">
+                  <i class="fa fa-bars"></i>
+                </a> 
+              </div>
+            </div>
+          </div><!-- /.container-fluid -->
+        </nav><!-- /.navbar -->
+        <header class="head">
+          <div class="search-bar">
+            <form class="main-search" action="">
+              <div class="input-group">
+                <input type="text" class="form-control FieldEnableAlways" placeholder="Cari Data ...">
+                <span class="input-group-btn">
+            <button class="btn btn-primary btn-sm text-muted" type="button">
+                <i class="fa fa-search"></i>
+            </button>
+        </span> 
+              </div>
+            </form><!-- /.main-search -->
+          </div><!-- /.search-bar -->
+          <div class="main-bar">
+            <h3><i class="fa fa-file-o"></i>&nbsp; <asp:ContentPlaceHolder ID="PageTitle" runat="server" /> </h3>
+          </div><!-- /.main-bar -->
+        </header><!-- /.head -->
+        <asp:ContentPlaceHolder ID="PageHeaderHolder" runat="server" />
+      </div><!-- /#top -->
+      <div id="left">
+        <div class="media user-media bg-dark dker">
+          <div class="user-media-toggleHover">
+            <span class="fa fa-user"></span> 
+          </div>
+          <div class="user-wrapper bg-dark">
+            <a class="user-link" href="">
+              <img style="height:64px; width:64px;" class="media-object img-thumbnail user-img" alt="User Picture" src="../App_DataUpload/APP_HR/EmpPhoto/EmpPhotoNA.jpg">
+            </a> 
+            <div class="media-body">
+              <h5 class="media-heading">Nama User</h5>
+              <ul class="list-unstyled user-info">
+                <li> <a href=""><%=HttpContext.Current.Session["AppUsrID"] %></a>  </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <!-- #menu -->
+        <ctr:MyUserControl runat="server" ID="MyUserControlID" />
+      </div><!-- /#left -->
+      <div id="content">
+        <div class="outer">
+          <div class="inner bg-light lter">
+            <asp:ContentPlaceHolder ID="PageContentHolder" runat="server" />
+          </div><!-- /.inner -->
+        </div><!-- /.outer -->
+      </div><!-- /#content -->
+    </div><!-- /#wrap -->
+    <footer class="Footer bg-dark dker">
+      <p>2014 &copy; Arin Suga</p>
+      <asp:ContentPlaceHolder ID="PageFooterHolder" runat="server" />
+    </footer><!-- /#footer -->
+
+    <div id="DialogSaveOnProgress" title="<%=HDPortal.Helper.clsMessages.msgCRUD.msgCRUD_Save_Process() %>">
+        <div id="DialogSaveOnProgressMsg" style="text-align:center;vertical-align:middle;">
+        <img src="../Contents/APP_ASM/images/LoadingSave.gif" />
+        <br /><%=HDPortal.Helper.clsMessages.msgInformation.msgInformation_Wait() %>
+        </div>
+        <div id="DialogSaveOnProgressMsgx1" style="text-align:center;vertical-align:middle;"></div>
+    </div>
+    <div id="DialogInformation" title="<%=HDPortal.Helper.clsXML.clsLanguage.getLangByID("MSGBX_TTL_INFO")%>">
+        <div id="DialogInformationMsg"></div>
+    </div>
+    <div id="DialogConfirmation" title="<%=HDPortal.Helper.clsXML.clsLanguage.getLangByID("MSGBX_TTL_CONF")%>">
+        <div id="DialogConfirmationMsg"></div>
+    </div>
+    <div id="DialogWarning" title="<%=HDPortal.Helper.clsXML.clsLanguage.getLangByID("MSGBX_TTL_WAR")%>">
+        <div id="DialogWarningMsg"></div>
+    </div>
+    <div id="DialogError" title="<%=HDPortal.Helper.clsXML.clsLanguage.getLangByID("MSGBX_TTL_ERR")%>">
+        <div id="DialogErrorMsg"></div>
+    </div>
+    <div id="DialogLookup">
+        <div id="DialogLookupContent">
+            <div id="divforgrdLookUp">
+            </div>
+        </div>
+    </div>
+
+
+    <!--Bootstrap -->
+    <script src="../Scripts/bootstrap.min.js"></script>
+    <!-- Screenfull -->
+    <script src="../Scripts/screenfull.js"></script>
+    <!-- Metis core scripts -->
+    <script src="../Scripts/core.js"></script>
+    <!-- Metis demo scripts -->
+    <script src="../Scripts/app.min.js"></script>
+    <script src="../Scripts/style-switcher.js"></script>
+
+    <!--Standard JS -->
+    <script src="../Scripts/json2.js" type="text/javascript"></script>
+    <script src="../Scripts/jquery.form.min.js" type="text/javascript"></script>
+    <script src="../Scripts/JSHelper_MiscValue.js" type="text/javascript"></script>
+    <script src="../Scripts/JSHelper.js" type="text/javascript"></script>
+    <script src="../Scripts/JSHelper_Validation.js" type="text/javascript"></script>
+    <script src="../Scripts/JSHelper_Lookup.js" type="text/javascript"></script>
+    <script src="../Scripts/JSHelper_List.js" type="text/javascript"></script>
+    <script src="../Scripts/JSHelper_Chart.js" type="text/javascript"></script>
+
+
+    <!--Content jQueryUI -->
+    <script src="../Contents/jQueryUI/jquery-ui.min.js" type="text/javascript"></script>
+    <!--Script jQuery InputMask and Formating -->
+    <script src="../Scripts/InputMask.js" type="text/javascript"></script>
+    <script src="../Scripts/jquery.format.1.05.js" type="text/javascript"></script>
+    <!--Content jQueryGrid -->
+    <script src="../Contents/jQueryGRD_DataTable/jquery.dataTables.js" type="text/javascript"></script>
+    <script src="../Contents/jQueryGRD_DataTable/ZeroClipboard.js" type="text/javascript"></script>
+    <script src="../Contents/jQueryGRD_DataTable/TableTools.min.js" type="text/javascript"></script>
+    <!--Script UI Standard Initialize -->
+    <script src="../Scripts/InitializeUI.js" type="text/javascript"></script>
+    <!--Script UI ASM -->
+    <script src="../Scripts/InitializeUIAPP_ASM.js" type="text/javascript"></script>
+
+    <asp:ContentPlaceHolder ID="HeadCustomHolder" runat="server" />
+    
+</body>
+</html>
